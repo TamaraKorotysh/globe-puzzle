@@ -1,0 +1,758 @@
+{
+ "ZWE": {
+  "en": [
+   "Victoria Falls on the Zambezi, shared with Zambia, is among the largest curtains of falling water in the world.",
+   "The ruins of Great Zimbabwe, built of stone without mortar, gave the country its name.",
+   "Lake Kariba, on the Zambia border, is one of the largest human-made reservoirs on Earth by volume."
+  ],
+  "ru": [
+   "Водопад Виктория на реке Замбези, общий с Замбией, — одна из крупнейших в мире завес падающей воды.",
+   "Руины Великого Зимбабве, сложенные из камня без раствора, дали стране её название.",
+   "Озеро Кариба на границе с Замбией — одно из крупнейших в мире рукотворных водохранилищ по объёму."
+  ]
+ },
+ "ZMB": {
+  "en": [
+   "Zambia shares Victoria Falls with Zimbabwe; locals call it Mosi-oa-Tunya, 'the smoke that thunders'.",
+   "Much of the country's export income comes from copper mined in the Copperbelt region.",
+   "Zambia is landlocked and borders eight neighbouring countries."
+  ],
+  "ru": [
+   "Замбия делит с Зимбабве водопад Виктория, который местные зовут Мози-оа-Туния — «гремящий дым».",
+   "Значительная часть экспортных доходов страны — медь из региона Коппербелт.",
+   "Замбия не имеет выхода к морю и граничит с восемью странами."
+  ]
+ },
+ "SGS": {
+  "en": [
+   "Explorer Ernest Shackleton is buried at Grytviken on South Georgia, after dying there in 1922.",
+   "The islands are home to huge colonies of king penguins and fur seals.",
+   "South Georgia has no permanent population, only researchers and staff, and it is a British Overseas Territory."
+  ],
+  "ru": [
+   "Исследователь Эрнест Шеклтон умер на Южной Георгии в 1922 году и похоронен в Грютвикене.",
+   "На островах живут огромные колонии королевских пингвинов и морских котиков.",
+   "На Южной Георгии нет постоянного населения, лишь учёные и персонал; это заморская территория Великобритании."
+  ]
+ },
+ "IOT": {
+  "en": [
+   "The territory is made up of the Chagos Archipelago, a group of coral atolls in the middle of the Indian Ocean.",
+   "Diego Garcia, its largest island, hosts a joint British-American military base.",
+   "The Chagos waters hold one of the world's largest marine protected areas."
+  ],
+  "ru": [
+   "Территорию образует архипелаг Чагос — группа коралловых атоллов посреди Индийского океана.",
+   "На крупнейшем острове, Диего-Гарсия, расположена совместная британо-американская военная база.",
+   "Воды Чагоса — одна из крупнейших в мире морских охраняемых зон."
+  ]
+ },
+ "SHN": {
+  "en": [
+   "Napoleon was exiled to Saint Helena in 1815 and died there in 1821.",
+   "The island is one of the most remote inhabited places on Earth, far out in the South Atlantic.",
+   "For years the island could be reached only by ship, until an airport opened in 2017."
+  ],
+  "ru": [
+   "Наполеон был сослан на остров Святой Елены в 1815 году и умер там в 1821-м.",
+   "Остров — одно из самых удалённых обитаемых мест на Земле, посреди Южной Атлантики.",
+   "Долгие годы добраться туда можно было только на корабле, пока в 2017 году не открылся аэропорт."
+  ]
+ },
+ "UGA": {
+  "en": [
+   "Lake Victoria, Africa's largest lake, is partly in Uganda, and the White Nile begins its journey there.",
+   "Bwindi Impenetrable Forest shelters roughly half of the world's mountain gorillas.",
+   "Uganda's Rwenzori Mountains, the 'Mountains of the Moon', carry glaciers right on the equator."
+  ],
+  "ru": [
+   "Часть озера Виктория, крупнейшего озера Африки, лежит в Уганде, и именно там начинается Белый Нил.",
+   "В непроходимом лесу Бвинди живёт около половины всех горных горилл мира.",
+   "В угандийских горах Рувензори, «Лунных горах», лежат ледники прямо на экваторе."
+  ]
+ },
+ "TUN": {
+  "en": [
+   "Ancient Carthage, Rome's great rival, stood on the coast near today's Tunis.",
+   "Tunisia is the northernmost country in Africa.",
+   "Parts of the first Star Wars film were shot in Tunisia's desert, and a town there is named Tataouine."
+  ],
+  "ru": [
+   "Древний Карфаген, великий соперник Рима, стоял на побережье рядом с нынешним Тунисом.",
+   "Тунис — самая северная страна Африки.",
+   "Часть сцен первого «Звёздных войн» снимали в пустыне Туниса, а один из городов там называется Татуин."
+  ]
+ },
+ "TGO": {
+  "en": [
+   "Togo is a narrow strip of land, only about 50 to 150 km wide, running from the sea to the Sahel.",
+   "Lomé, its capital, sits right on the Ghana border.",
+   "Togo was a German colony before being split between Britain and France after World War I."
+  ],
+  "ru": [
+   "Того — узкая полоса земли шириной примерно 50–150 км, тянущаяся от моря к Сахелю.",
+   "Столица Ломе стоит прямо на границе с Ганой.",
+   "Того было немецкой колонией, а после Первой мировой войны его поделили Британия и Франция."
+  ]
+ },
+ "TZA": {
+  "en": [
+   "Mount Kilimanjaro, Africa's highest peak at 5,895 m, rises in northern Tanzania.",
+   "Every year over a million wildebeest migrate across the Serengeti in search of fresh grass.",
+   "Zanzibar, once a centre of the spice and slave trades, is part of Tanzania."
+  ],
+  "ru": [
+   "Гора Килиманджаро высотой 5895 м, высочайшая точка Африки, находится на севере Танзании.",
+   "Каждый год больше миллиона антилоп гну мигрируют по Серенгети в поисках свежей травы.",
+   "Занзибар, некогда центр торговли пряностями и рабами, входит в состав Танзании."
+  ]
+ },
+ "SWZ": {
+  "en": [
+   "Eswatini is one of the few remaining absolute monarchies in the world; the country was called Swaziland until 2018.",
+   "Each year thousands of young women dance before the king at the Umhlanga Reed Dance.",
+   "It is among the smallest countries in Africa, with mountains in the west and savanna in the east."
+  ],
+  "ru": [
+   "Эсватини — одна из немногих оставшихся в мире абсолютных монархий; до 2018 года страна называлась Свазиленд.",
+   "Ежегодно тысячи молодых женщин танцуют перед королём на празднике тростников Умхланга.",
+   "Это одна из самых маленьких стран Африки: горы на западе и саванна на востоке."
+  ]
+ },
+ "SDS": {
+  "en": [
+   "South Sudan became the world's newest country in 2011 after a referendum on independence.",
+   "The Sudd, a vast swamp formed by the White Nile, is among the largest wetlands in Africa.",
+   "The country hosts one of Africa's great antelope migrations, involving millions of animals."
+  ],
+  "ru": [
+   "Южный Судан стал самой молодой страной мира в 2011 году после референдума о независимости.",
+   "Судд — огромное болото, образованное Белым Нилом, одно из крупнейших водно-болотных угодий Африки.",
+   "В стране проходит одна из крупнейших в Африке миграций антилоп, в которой участвуют миллионы животных."
+  ]
+ },
+ "SDN": {
+  "en": [
+   "Sudan has more ancient pyramids than Egypt, built by the Kushite kings of Nubia.",
+   "The Blue Nile and White Nile meet in Khartoum to form the main Nile.",
+   "The Kingdom of Kush once ruled Egypt as the 25th dynasty of the pharaohs."
+  ],
+  "ru": [
+   "В Судане больше древних пирамид, чем в Египте: их строили цари Куша в Нубии.",
+   "В Хартуме Голубой и Белый Нил сливаются и образуют главный Нил.",
+   "Царство Куш когда-то правило Египтом как 25-я династия фараонов."
+  ]
+ },
+ "ZAF": {
+  "en": [
+   "South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
+   "Nelson Mandela and F. W. de Klerk shared the 1993 Nobel Peace Prize for ending apartheid.",
+   "Table Mountain overlooks Cape Town, and the surrounding Cape Floral Region has an exceptional variety of plants."
+  ],
+  "ru": [
+   "В Южной Африке три столицы: Претория, Кейптаун и Блумфонтейн.",
+   "Нельсон Мандела и Фредерик де Клерк разделили Нобелевскую премию мира 1993 года за прекращение апартеида.",
+   "Над Кейптауном возвышается Столовая гора, а окружающий регион Кейп необычайно богат видами растений."
+  ]
+ },
+ "SOM": {
+  "en": [
+   "Somalia has the longest coastline on mainland Africa.",
+   "The country is a major producer of frankincense and myrrh, resins traded since antiquity.",
+   "Somali is spoken by most of the population, and the country has a strong tradition of oral poetry."
+  ],
+  "ru": [
+   "У Сомали самая длинная береговая линия на материковой части Африки.",
+   "Страна — крупный производитель ладана и мирры, смол, которыми торгуют с глубокой древности.",
+   "Большинство жителей говорит по-сомалийски, а в стране сильна традиция устной поэзии."
+  ]
+ },
+ "SOL": {
+  "en": [
+   "Somaliland declared independence from Somalia in 1991 but is not widely recognised internationally.",
+   "It has its own currency, the Somaliland shilling, and its own elections.",
+   "The Laas Geel caves near Hargeisa hold well-preserved rock paintings thousands of years old."
+  ],
+  "ru": [
+   "Сомалиленд объявил о независимости от Сомали в 1991 году, но международного признания почти не получил.",
+   "У него своя валюта, сомалилендский шиллинг, и свои выборы.",
+   "В пещерах Лаас-Гааль близ Харгейсы сохранились наскальные рисунки возрастом в тысячи лет."
+  ]
+ },
+ "SLE": {
+  "en": [
+   "Freetown was founded as a home for freed slaves, and its Cotton Tree long stood as a city landmark.",
+   "Sierra Leone is known for diamonds, and the country's long coast has white-sand beaches.",
+   "The name comes from Portuguese for 'Lion Mountains', after the range near the capital."
+  ],
+  "ru": [
+   "Фритаун основали как дом для освобождённых рабов, а его знаменитое Хлопковое дерево долго было символом города.",
+   "Сьерра-Леоне известна алмазами, а на её длинном побережье есть пляжи с белым песком.",
+   "Название по-португальски значит «Львиные горы» — так назвали хребет возле столицы."
+  ]
+ },
+ "SYC": {
+  "en": [
+   "Seychelles is home to the coco de mer, a palm with the largest seed in the plant kingdom.",
+   "The islands were uninhabited until the 1700s, when French settlers arrived.",
+   "Aldabra Atoll, part of Seychelles, shelters one of the largest populations of giant tortoises in the world."
+  ],
+  "ru": [
+   "На Сейшелах растёт коко-де-мер — пальма с самым крупным семенем в растительном мире.",
+   "Острова были необитаемы до XVIII века, пока там не поселились французы.",
+   "На атолле Альдабра, входящем в Сейшелы, живёт одна из крупнейших в мире популяций гигантских черепах."
+  ]
+ },
+ "SEN": {
+  "en": [
+   "Lake Retba near Dakar is famously pink, coloured by algae and salt.",
+   "The Dakar Rally ended in Dakar for years, though it has since moved elsewhere.",
+   "Gorée Island, off Dakar, is remembered as a memorial to the Atlantic slave trade."
+  ],
+  "ru": [
+   "Озеро Ретба близ Дакара славится розовым цветом из-за водорослей и соли.",
+   "Ралли «Дакар» долгие годы финишировало в Дакаре, хотя позднее переехало в другие места.",
+   "Остров Горе у Дакара стал мемориалом памяти о трансатлантической работорговле."
+  ]
+ },
+ "STP": {
+  "en": [
+   "São Tomé and Príncipe is the second smallest country in Africa by area.",
+   "The islands lie almost on the equator and produce some of the world's finest cocoa.",
+   "The country was uninhabited when Portuguese sailors found it in the 15th century."
+  ],
+  "ru": [
+   "Сан-Томе и Принсипи — вторая по площади самая маленькая страна Африки.",
+   "Острова лежат почти на экваторе и дают одно из лучших в мире какао.",
+   "Когда в XV веке сюда пришли португальские моряки, острова были необитаемы."
+  ]
+ },
+ "RWA": {
+  "en": [
+   "Rwanda is called the 'land of a thousand hills' for its green, rolling terrain.",
+   "Volcanoes National Park lets visitors trek to see mountain gorillas in the wild.",
+   "Plastic bags have been banned in Rwanda for years, and Kigali is known as one of Africa's cleanest cities."
+  ],
+  "ru": [
+   "Руанду называют «страной тысячи холмов» за зелёный холмистый рельеф.",
+   "В национальном парке Вулканов можно отправиться в поход, чтобы увидеть горных горилл в дикой природе.",
+   "Пластиковые пакеты в Руанде давно запрещены, а Кигали считают одним из самых чистых городов Африки."
+  ]
+ },
+ "NGA": {
+  "en": [
+   "Nigeria is the most populous country in Africa, with hundreds of ethnic groups.",
+   "Nollywood, its film industry, is among the largest in the world by number of films.",
+   "Nigeria has more than 500 languages, though English is the official one."
+  ],
+  "ru": [
+   "Нигерия — самая населённая страна Африки, где живут сотни народов.",
+   "Нигерийская киноиндустрия Nollywood входит в число крупнейших в мире по числу фильмов.",
+   "В Нигерии говорят более чем на 500 языках, хотя государственный язык — английский."
+  ]
+ },
+ "NER": {
+  "en": [
+   "Most of Niger lies in the Sahara, and the country is one of the hottest in the world.",
+   "The Ténéré desert in Niger was once famed for a lone tree, the only one for hundreds of kilometres.",
+   "Dinosaur fossils, including a huge Sahara sauropod, have been found in Niger."
+  ],
+  "ru": [
+   "Большая часть Нигера лежит в Сахаре, и страна — одна из самых жарких в мире.",
+   "Пустыня Тенере в Нигере прославилась одиноким деревом, единственным на сотни километров.",
+   "В Нигере находили кости динозавров, в том числе огромного завропода."
+  ]
+ },
+ "NAM": {
+  "en": [
+   "The Namib is often called the oldest desert in the world.",
+   "Namibia has one of the lowest population densities of any country.",
+   "The Skeleton Coast is strewn with shipwrecks, left by fog and strong currents."
+  ],
+  "ru": [
+   "Намиб часто называют древнейшей пустыней мира.",
+   "В Намибии одна из самых низких плотностей населения среди стран мира.",
+   "Берег скелетов усеян остовами кораблей, потерпевших крушение из-за тумана и сильных течений."
+  ]
+ },
+ "MOZ": {
+  "en": [
+   "Mozambique has one of the longest coastlines in Africa along the Indian Ocean.",
+   "Its flag is the only national flag featuring a modern assault rifle.",
+   "Portuguese is the official language, a legacy of colonial rule that ended in 1975."
+  ],
+  "ru": [
+   "У Мозамбика одно из самых длинных побережий Африки вдоль Индийского океана.",
+   "На его флаге — единственный в мире современный автомат среди государственных символов.",
+   "Официальный язык — португальский, наследие колониальной эпохи, закончившейся в 1975 году."
+  ]
+ },
+ "MAR": {
+  "en": [
+   "The Fes el-Bali medina is among the largest car-free urban areas in the world.",
+   "Morocco's Atlas Mountains have ski resorts within reach of the Sahara.",
+   "In Chefchaouen, many houses and streets are painted shades of blue."
+  ],
+  "ru": [
+   "Медина Фес-эль-Бали — один из крупнейших в мире городских районов без автомобилей.",
+   "В марокканских горах Атлас есть горнолыжные курорты недалеко от Сахары.",
+   "В городе Шефшауэн многие дома и улицы выкрашены в оттенки синего."
+  ]
+ },
+ "SAH": {
+  "en": [
+   "Western Sahara is one of the least densely populated places on Earth.",
+   "Its status is disputed between Morocco and the Sahrawi independence movement.",
+   "Its Atlantic coast is cooled by currents and has rich fishing waters."
+  ],
+  "ru": [
+   "Западная Сахара — одно из самых малонаселённых мест Земли.",
+   "Её статус оспаривают Марокко и сахарское движение за независимость.",
+   "Атлантическое побережье охлаждается течениями, и в его водах много рыбы."
+  ]
+ },
+ "MUS": {
+  "en": [
+   "The dodo, a flightless bird, lived only on Mauritius and went extinct in the 1600s.",
+   "Mauritius's Seven Coloured Earths are dunes with visibly different colours.",
+   "The island is of volcanic origin and surrounded by a coral reef."
+  ],
+  "ru": [
+   "Додо, нелетающая птица, жил только на Маврикии и вымер в XVII веке.",
+   "«Семицветные земли» Маврикия — дюны с чётко различимыми цветами.",
+   "Остров вулканического происхождения и окружён коралловым рифом."
+  ]
+ },
+ "MRT": {
+  "en": [
+   "The Richat Structure, the 'Eye of the Sahara', is a giant circular feature visible from space.",
+   "Mauritania's iron-ore trains are among the longest in the world.",
+   "Chinguetti, a desert town, is known for its ancient libraries of manuscripts."
+  ],
+  "ru": [
+   "Структура Ришат, «Глаз Сахары», — гигантское круглое образование, видимое из космоса.",
+   "Составы с железной рудой в Мавритании входят в число самых длинных в мире.",
+   "Город Шингетти в пустыне известен древними библиотеками рукописей."
+  ]
+ },
+ "MLI": {
+  "en": [
+   "Timbuktu was a famous centre of learning with thousands of manuscripts.",
+   "The Great Mosque of Djenné is the world's largest mud-brick building.",
+   "Mansa Musa, emperor of Mali, is often cited as one of the richest people in history."
+  ],
+  "ru": [
+   "Тимбукту был знаменитым центром учёности с тысячами рукописей.",
+   "Большая мечеть Дженне — крупнейшее в мире здание из глинобитного кирпича.",
+   "Император Мали Манса Муса считается одним из богатейших людей в истории."
+  ]
+ },
+ "MDV": {
+  "en": [
+   "Maldives is the lowest-lying country on Earth, with a highest natural point only a few metres above sea level.",
+   "The country consists of roughly a thousand coral islands grouped into atolls.",
+   "Some resorts have restaurants and rooms built under the sea."
+  ],
+  "ru": [
+   "Мальдивы — самая низменная страна мира: высшая точка всего в нескольких метрах над уровнем моря.",
+   "Страна состоит примерно из тысячи коралловых островов, собранных в атоллы.",
+   "На некоторых курортах есть рестораны и номера под водой."
+  ]
+ },
+ "MWI": {
+  "en": [
+   "Lake Malawi is home to more species of fish than any other lake on Earth, many found nowhere else.",
+   "Malawi is nicknamed the 'warm heart of Africa'.",
+   "The lake covers a large share of the country's territory and is a UNESCO site."
+  ],
+  "ru": [
+   "В озере Малави больше видов рыб, чем в любом другом озере мира, многие из них нигде больше не живут.",
+   "Малави называют «тёплым сердцем Африки».",
+   "Озеро занимает значительную часть территории страны и охраняется ЮНЕСКО."
+  ]
+ },
+ "MDG": {
+  "en": [
+   "Most of Madagascar's wildlife, including lemurs, exists nowhere else on Earth.",
+   "It is the fourth-largest island in the world.",
+   "Baobab trees line the famous Avenue of the Baobabs near Morondava."
+  ],
+  "ru": [
+   "Большая часть живой природы Мадагаскара, включая лемуров, нигде больше не встречается.",
+   "Это четвёртый по величине остров в мире.",
+   "Около Морондавы тянется знаменитая Аллея баобабов."
+  ]
+ },
+ "LBY": {
+  "en": [
+   "Over 90 percent of Libya is desert, part of the Sahara.",
+   "The ruins of Leptis Magna are among the best-preserved Roman cities in the Mediterranean.",
+   "Libya has the longest Mediterranean coastline of any African country."
+  ],
+  "ru": [
+   "Более 90 процентов территории Ливии занимает пустыня, часть Сахары.",
+   "Руины Лептис-Магны — одни из лучше всего сохранившихся римских городов Средиземноморья.",
+   "У Ливии самое длинное средиземноморское побережье среди африканских стран."
+  ]
+ },
+ "LBR": {
+  "en": [
+   "Liberia was founded in the 19th century by freed African Americans, and its capital Monrovia is named after US president James Monroe.",
+   "Together with Myanmar and the US, Liberia is one of the few countries not using the metric system officially.",
+   "Its flag closely resembles the US flag, with eleven stripes and one star."
+  ],
+  "ru": [
+   "Либерию в XIX веке основали освобождённые афроамериканцы, а её столица Монровия названа в честь президента США Джеймса Монро.",
+   "Либерия — одна из немногих стран, где метрическая система официально не принята.",
+   "Её флаг очень похож на флаг США: одиннадцать полос и одна звезда."
+  ]
+ },
+ "LSO": {
+  "en": [
+   "Lesotho is entirely surrounded by South Africa, and all of it lies above 1,000 m.",
+   "It is nicknamed the 'Kingdom in the Sky'.",
+   "Many Basotho wear a traditional woollen blanket as everyday dress."
+  ],
+  "ru": [
+   "Лесото целиком окружено Южной Африкой, и вся его территория лежит выше 1000 м.",
+   "Страну называют «Королевством в небе».",
+   "Многие басуто носят традиционные шерстяные одеяла как повседневную одежду."
+  ]
+ },
+ "KEN": {
+  "en": [
+   "Kenya's Rift Valley holds lakes famous for huge flocks of flamingos.",
+   "Kenyan runners, many from the highlands, dominate world marathon and distance racing.",
+   "Mount Kenya is Africa's second-highest mountain and has glaciers close to the equator."
+  ],
+  "ru": [
+   "В кенийской Рифтовой долине есть озёра, известные огромными стаями фламинго.",
+   "Кенийские бегуны, многие из них — из высокогорья, доминируют в марафонах и беге на длинные дистанции.",
+   "Гора Кения — вторая по высоте в Африке, и на ней лежат ледники почти на экваторе."
+  ]
+ },
+ "GNB": {
+  "en": [
+   "The Bijagós Archipelago off Guinea-Bissau is a UNESCO biosphere reserve with unusual saltwater hippos.",
+   "Cashew nuts are the country's main export crop.",
+   "It was a Portuguese colony until independence was won after a war in the 1970s."
+  ],
+  "ru": [
+   "Архипелаг Бижагош у Гвинеи-Бисау — биосферный заповедник ЮНЕСКО, где живут необычные бегемоты в солёной воде.",
+   "Орехи кешью — главная экспортная культура страны.",
+   "Это была португальская колония, независимость которой была завоёвана после войны в 1970-х."
+  ]
+ },
+ "GIN": {
+  "en": [
+   "Guinea holds about a quarter of the world's bauxite reserves, the ore for aluminium.",
+   "The Niger, the Gambia and Senegal rivers all have their sources in Guinea's highlands.",
+   "Mount Nimba, on the border, is a rare biodiversity hotspot protected by UNESCO."
+  ],
+  "ru": [
+   "В Гвинее около четверти мировых запасов бокситов — руды для производства алюминия.",
+   "Реки Нигер, Гамбия и Сенегал берут начало в гвинейском нагорье.",
+   "Гора Нимба на границе — редкий центр биоразнообразия под защитой ЮНЕСКО."
+  ]
+ },
+ "GHA": {
+  "en": [
+   "Ghana was the first sub-Saharan African country to gain independence from colonial rule, in 1957.",
+   "Lake Volta is one of the largest man-made lakes in the world by surface area.",
+   "Ghana is among the world's biggest cocoa producers."
+  ],
+  "ru": [
+   "Гана первой в Африке южнее Сахары получила независимость от колониального правления, в 1957 году.",
+   "Озеро Вольта — одно из крупнейших в мире рукотворных озёр по площади.",
+   "Гана — один из крупнейших в мире производителей какао."
+  ]
+ },
+ "GMB": {
+  "en": [
+   "The Gambia is the smallest country on mainland Africa and follows the Gambia River.",
+   "It is almost entirely surrounded by Senegal.",
+   "Kunta Kinteh Island in the river is a UNESCO site linked to the slave trade."
+  ],
+  "ru": [
+   "Гамбия — самая маленькая страна материковой Африки, она вытянулась вдоль реки Гамбия.",
+   "Почти со всех сторон она окружена Сенегалом.",
+   "Остров Кунта-Кинте на реке — объект ЮНЕСКО, связанный с работорговлей."
+  ]
+ },
+ "GAB": {
+  "en": [
+   "About 80 percent of Gabon is covered by rainforest.",
+   "Loango National Park is known for its elephants, hippos and gorillas that wander out onto the beach.",
+   "Gabon has made large parts of its land and sea protected national parks."
+  ],
+  "ru": [
+   "Около 80 процентов Габона покрыто тропическим лесом.",
+   "В национальном парке Лоанго слоны, бегемоты и гориллы выходят на пляж.",
+   "Габон объявил значительные части суши и моря национальными парками."
+  ]
+ },
+ "ATF": {
+  "en": [
+   "These lands include the Kerguelen Islands, far in the southern Indian Ocean, with no permanent population.",
+   "Only scientists live here, on research stations.",
+   "The territory also includes a claimed slice of Antarctica, Adélie Land."
+  ],
+  "ru": [
+   "В эти земли входят острова Кергелен в южной части Индийского океана, где нет постоянных жителей.",
+   "Здесь живут лишь учёные на исследовательских станциях.",
+   "К территории относится и заявленный кусок Антарктиды — Земля Адели."
+  ]
+ },
+ "ETH": {
+  "en": [
+   "Ethiopia is the origin of coffee, and the coffee ceremony is a key part of its culture.",
+   "It uses its own calendar, about seven to eight years behind the Gregorian one.",
+   "Lalibela's churches were carved out of solid rock in the Middle Ages."
+  ],
+  "ru": [
+   "Эфиопия — родина кофе, а кофейная церемония — важная часть её культуры.",
+   "Здесь используют свой календарь, отстающий от григорианского примерно на семь-восемь лет.",
+   "Церкви Лалибелы в Средние века были высечены прямо в скале."
+  ]
+ },
+ "ERI": {
+  "en": [
+   "Eritrea gained independence from Ethiopia in 1993 after a decades-long war.",
+   "Asmara's art deco and modernist architecture earned UNESCO status.",
+   "The Danakil Depression, partly in Eritrea, is one of the hottest places on Earth."
+  ],
+  "ru": [
+   "Эритрея получила независимость от Эфиопии в 1993 году после многолетней войны.",
+   "Архитектура ар-деко и модернизма в Асмэре внесена в список ЮНЕСКО.",
+   "Впадина Данакиль, частично в Эритрее, — одно из самых жарких мест Земли."
+  ]
+ },
+ "GNQ": {
+  "en": [
+   "Equatorial Guinea is the only independent African country where Spanish is an official language.",
+   "Its territory consists of a mainland region and several islands, including Bioko.",
+   "The capital, Malabo, lies on Bioko, not on the mainland."
+  ],
+  "ru": [
+   "Экваториальная Гвинея — единственная независимая африканская страна, где испанский язык официальный.",
+   "Её территория состоит из материковой части и нескольких островов, включая Биоко.",
+   "Столица Малабо расположена на острове Биоко, а не на материке."
+  ]
+ },
+ "EGY": {
+  "en": [
+   "The Great Pyramid of Giza was the tallest human-made structure for nearly 4,000 years.",
+   "Nearly all Egyptians live along the Nile or its delta, a small fraction of the country's land.",
+   "The Suez Canal links the Mediterranean and the Red Sea and carries a large share of world trade."
+  ],
+  "ru": [
+   "Великая пирамида в Гизе почти 4000 лет оставалась самым высоким сооружением, созданным человеком.",
+   "Почти все египтяне живут вдоль Нила или в его дельте — на небольшой части территории страны.",
+   "Суэцкий канал соединяет Средиземное и Красное моря и пропускает заметную долю мировой торговли."
+  ]
+ },
+ "DJI": {
+  "en": [
+   "Lake Assal in Djibouti is the lowest point in Africa and one of the saltiest lakes on Earth.",
+   "The country lies at a strategic point on the route between the Red Sea and the Indian Ocean.",
+   "Whale sharks gather in the Gulf of Tadjoura each winter."
+  ],
+  "ru": [
+   "Озеро Ассаль в Джибути — самая низкая точка Африки и одно из самых солёных озёр мира.",
+   "Страна занимает стратегическую позицию на пути между Красным морем и Индийским океаном.",
+   "В Таджурском заливе каждую зиму собираются китовые акулы."
+  ]
+ },
+ "CIV": {
+  "en": [
+   "Ivory Coast is the world's largest producer of cocoa beans.",
+   "Yamoussoukro, the political capital, holds one of the largest churches in the world, a basilica modelled on St Peter's.",
+   "The country's official name is the same in all languages: Côte d'Ivoire."
+  ],
+  "ru": [
+   "Кот-д'Ивуар — крупнейший в мире производитель какао-бобов.",
+   "В Ямусукро, политической столице, стоит одна из крупнейших церквей мира — базилика по мотивам собора Святого Петра.",
+   "Официальное название страны одинаково на всех языках — Côte d'Ivoire."
+  ]
+ },
+ "COD": {
+  "en": [
+   "The Congo River is the deepest river in the world, and the second longest in Africa.",
+   "The Congo basin has the second-largest rainforest on Earth, after the Amazon.",
+   "Okapis, relatives of giraffes with zebra-like stripes on their legs, live only in this country."
+  ],
+  "ru": [
+   "Конго — самая глубокая река мира и вторая по длине в Африке.",
+   "В бассейне Конго — второй по величине тропический лес на Земле после Амазонии.",
+   "Окапи, родственники жирафов с зебровыми полосами на ногах, живут только в этой стране."
+  ]
+ },
+ "COG": {
+  "en": [
+   "Brazzaville and Kinshasa are the two closest capital cities in the world, facing each other across the Congo River.",
+   "Most of the country is covered by rainforest, home to western lowland gorillas.",
+   "Odzala-Kokoua National Park is known for forest elephants and gorillas."
+  ],
+  "ru": [
+   "Браззавиль и Киншаса — две ближайшие друг к другу столицы мира, они стоят на противоположных берегах реки Конго.",
+   "Большая часть страны покрыта тропическим лесом, где живут западные равнинные гориллы.",
+   "Национальный парк Оздала-Кокуа известен лесными слонами и гориллами."
+  ]
+ },
+ "COM": {
+  "en": [
+   "Comoros is a volcanic archipelago between Mozambique and Madagascar.",
+   "Mount Karthala on Grande Comore is one of the most active volcanoes in the world.",
+   "The islands are a leading producer of ylang-ylang, a flower used in perfumes."
+  ],
+  "ru": [
+   "Коморы — вулканический архипелаг между Мозамбиком и Мадагаскаром.",
+   "Вулкан Картала на Гран-Комор — один из самых активных в мире.",
+   "Острова — один из ведущих производителей иланг-иланга, цветка для парфюмерии."
+  ]
+ },
+ "TCD": {
+  "en": [
+   "Lake Chad has shrunk dramatically since the 1960s.",
+   "The Ennedi Plateau in Chad has sandstone arches and ancient rock art.",
+   "Chad's Tibesti Mountains include volcanic peaks high in the Sahara."
+  ],
+  "ru": [
+   "Озеро Чад сильно сократилось с 1960-х годов.",
+   "На плато Эннеди в Чаде есть песчаниковые арки и древние наскальные рисунки.",
+   "В горах Тибести в Чаде есть вулканические вершины посреди Сахары."
+  ]
+ },
+ "CAF": {
+  "en": [
+   "The Central African Republic is landlocked in the heart of the continent.",
+   "Dzanga-Sangha reserve has forest clearings where elephants and gorillas gather.",
+   "The country is also known for its diamonds."
+  ],
+  "ru": [
+   "Центральноафриканская Республика не имеет выхода к морю и лежит в сердце континента.",
+   "В заповеднике Дзанга-Санга есть лесные поляны, где собираются слоны и гориллы.",
+   "Страна также известна своими алмазами."
+  ]
+ },
+ "CPV": {
+  "en": [
+   "Cape Verde is a volcanic archipelago off West Africa that had no inhabitants before the Portuguese arrived.",
+   "Cesária Évora, the 'Barefoot Diva', made the island's morna music famous worldwide.",
+   "Fogo island has an active volcano with villages inside its crater."
+  ],
+  "ru": [
+   "Кабо-Верде — вулканический архипелаг у берегов Западной Африки, который был необитаем до прихода португальцев.",
+   "Сезария Эвора, «босоногая дива», прославила музыку морна на весь мир.",
+   "На острове Фогу есть действующий вулкан, внутри кратера которого стоят деревни."
+  ]
+ },
+ "CMR": {
+  "en": [
+   "Cameroon is nicknamed 'Africa in miniature' for its mix of deserts, rainforests, savanna and mountains.",
+   "Mount Cameroon is an active volcano and one of the tallest in Africa.",
+   "The country is known for football, and its national team has played in several World Cups."
+  ],
+  "ru": [
+   "Камерун называют «Африкой в миниатюре» за сочетание пустынь, лесов, саванн и гор.",
+   "Гора Камерун — действующий вулкан и одна из высочайших вершин Африки.",
+   "Страна известна футболом, и её сборная не раз играла на чемпионатах мира."
+  ]
+ },
+ "BDI": {
+  "en": [
+   "Burundi is one of the smallest countries in Africa and lies on the shore of Lake Tanganyika.",
+   "Lake Tanganyika is the second-deepest lake in the world.",
+   "Burundian drummers are famous for performing powerful synchronised drum rituals."
+  ],
+  "ru": [
+   "Бурунди — одна из самых маленьких стран Африки, она выходит к озеру Танганьика.",
+   "Танганьика — второе по глубине озеро мира.",
+   "Бурундийские барабанщики известны мощными синхронными ритуальными выступлениями."
+  ]
+ },
+ "BFA": {
+  "en": [
+   "Burkina Faso's name means 'land of upright people'.",
+   "Ouagadougou hosts FESPACO, the largest African film festival.",
+   "Its former name, Upper Volta, was changed in 1984."
+  ],
+  "ru": [
+   "Название Буркина-Фасо означает «страна достойных людей».",
+   "В Уагадугу проходит ФЕСПАКО — крупнейший африканский кинофестиваль.",
+   "Прежнее название, Верхняя Вольта, сменили в 1984 году."
+  ]
+ },
+ "BWA": {
+  "en": [
+   "The Okavango Delta in Botswana is an inland delta that floods from rains far away in Angola.",
+   "Botswana has one of Africa's largest elephant populations.",
+   "The country is among the world's leading diamond producers."
+  ],
+  "ru": [
+   "Дельта Окаванго в Ботсване — внутренняя дельта, которую заливают дожди, выпавшие далеко в Анголе.",
+   "В Ботсване одна из крупнейших в Африке популяций слонов.",
+   "Страна — один из ведущих мировых производителей алмазов."
+  ]
+ },
+ "BEN": {
+  "en": [
+   "Benin is the birthplace of Vodun, a religion that spread to the Americas.",
+   "Ganvié is a village built on stilts over a lake.",
+   "The Kingdom of Dahomey, in what is now Benin, had a famed corps of women warriors."
+  ],
+  "ru": [
+   "Бенин — родина вуду, религии, распространившейся в Америке.",
+   "Ганвье — деревня на сваях посреди озера.",
+   "В королевстве Дагомея, на территории нынешнего Бенина, был известный женский воинский корпус."
+  ]
+ },
+ "HMD": {
+  "en": [
+   "Heard Island has an active volcano, Big Ben, on a remote Australian sub-Antarctic island.",
+   "Mawson Peak is Australia's highest mountain, higher than any peak on the mainland.",
+   "No one lives here, and it is a UNESCO site for its wildlife and glaciers."
+  ],
+  "ru": [
+   "На острове Херд есть действующий вулкан Биг-Бен — это далёкий австралийский субантарктический остров.",
+   "Пик Моусон — высочайшая вершина Австралии, она выше любой горы на материке.",
+   "Остров необитаем и внесён в список ЮНЕСКО за природу и ледники."
+  ]
+ },
+ "AGO": {
+  "en": [
+   "Angola is one of Africa's largest oil producers.",
+   "Kalandula Falls is among the largest waterfalls in Africa by volume.",
+   "Portuguese is the official language, and the country was a Portuguese colony until 1975."
+  ],
+  "ru": [
+   "Ангола — один из крупнейших производителей нефти в Африке.",
+   "Водопад Каландула — один из самых мощных водопадов Африки по объёму воды.",
+   "Официальный язык — португальский, а колонией Португалии страна была до 1975 года."
+  ]
+ },
+ "DZA": {
+  "en": [
+   "Algeria is the largest country in Africa by area since South Sudan's split from Sudan.",
+   "The Sahara covers most of Algeria, with rock art at Tassili n'Ajjer.",
+   "Algeria has some of the best-preserved Roman ruins in North Africa, such as Timgad."
+  ],
+  "ru": [
+   "Алжир — крупнейшая страна Африки по площади после отделения Южного Судана от Судана.",
+   "Сахара занимает большую часть Алжира, а в Тассили-н-Аджер есть наскальные рисунки.",
+   "В Алжире сохранились одни из лучших римских руин Северной Африки, например Тимгад."
+  ]
+ },
+ "ATA": {
+  "en": [
+   "Antarctica is the coldest, driest and windiest continent on Earth.",
+   "Its ice sheet holds around 70 percent of the world's fresh water.",
+   "No country owns it: the Antarctic Treaty reserves it for peace and science."
+  ],
+  "ru": [
+   "Антарктида — самый холодный, сухой и ветреный континент Земли.",
+   "В её ледяном щите около 70 процентов всей пресной воды планеты.",
+   "Она никому не принадлежит: Договор об Антарктике отдаёт её науке и миру."
+  ]
+ }
+}

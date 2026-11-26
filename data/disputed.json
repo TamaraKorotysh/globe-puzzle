@@ -1,0 +1,196 @@
+{
+ "D-CRIMEA": {
+  "id": "D-CRIMEA",
+  "name": {
+   "en": "Crimea",
+   "ru": "Крым"
+  },
+  "claimants": {
+   "en": "Claimed by Russia and Ukraine",
+   "ru": "На территорию претендуют Россия и Украина"
+  },
+  "control": {
+   "en": "Administered by Russia since 2014",
+   "ru": "С 2014 года под управлением России"
+  }
+ },
+ "D-WSAHARA": {
+  "id": "D-WSAHARA",
+  "name": {
+   "en": "Western Sahara",
+   "ru": "Западная Сахара"
+  },
+  "claimants": {
+   "en": "Claimed by Morocco and the Sahrawi Arab Democratic Republic",
+   "ru": "На территорию претендуют Марокко и Сахарская Арабская Демократическая Республика"
+  },
+  "control": {
+   "en": "Mostly administered by Morocco since 1975; the eastern part by the Polisario Front",
+   "ru": "С 1975 года в основном под управлением Марокко; восточная часть — под управлением Фронта Полисарио"
+  }
+ },
+ "D-KASH-IN": {
+  "id": "D-KASH-IN",
+  "name": {
+   "en": "Kashmir (Indian-administered)",
+   "ru": "Кашмир (под управлением Индии)"
+  },
+  "claimants": {
+   "en": "Claimed by India and Pakistan",
+   "ru": "На территорию претендуют Индия и Пакистан"
+  },
+  "control": {
+   "en": "Administered by India",
+   "ru": "Под управлением Индии"
+  }
+ },
+ "D-KASH-PK": {
+  "id": "D-KASH-PK",
+  "name": {
+   "en": "Kashmir (Pakistani-administered)",
+   "ru": "Кашмир (под управлением Пакистана)"
+  },
+  "claimants": {
+   "en": "Claimed by India and Pakistan",
+   "ru": "На территорию претендуют Индия и Пакистан"
+  },
+  "control": {
+   "en": "Administered by Pakistan",
+   "ru": "Под управлением Пакистана"
+  }
+ },
+ "D-AKSAI": {
+  "id": "D-AKSAI",
+  "name": {
+   "en": "Aksai Chin",
+   "ru": "Аксай-Чин"
+  },
+  "claimants": {
+   "en": "Claimed by China and India",
+   "ru": "На территорию претендуют Индия и Китай"
+  },
+  "control": {
+   "en": "Administered by China since the 1950s",
+   "ru": "С 1950-х годов под управлением Китая"
+  }
+ },
+ "D-ARUNACHAL": {
+  "id": "D-ARUNACHAL",
+  "name": {
+   "en": "Arunachal Pradesh",
+   "ru": "Аруначал-Прадеш"
+  },
+  "claimants": {
+   "en": "Claimed by China and India",
+   "ru": "На территорию претендуют Индия и Китай"
+  },
+  "control": {
+   "en": "Administered by India",
+   "ru": "Под управлением Индии"
+  }
+ },
+ "D-GOLAN": {
+  "id": "D-GOLAN",
+  "name": {
+   "en": "Golan Heights",
+   "ru": "Голанские высоты"
+  },
+  "claimants": {
+   "en": "Claimed by Israel and Syria",
+   "ru": "На территорию претендуют Израиль и Сирия"
+  },
+  "control": {
+   "en": "Administered by Israel since 1967",
+   "ru": "С 1967 года под управлением Израиля"
+  }
+ },
+ "D-ABKHAZIA": {
+  "id": "D-ABKHAZIA",
+  "name": {
+   "en": "Abkhazia",
+   "ru": "Абхазия"
+  },
+  "claimants": {
+   "en": "Claimed by Abkhazia and Georgia",
+   "ru": "На территорию претендуют Абхазия и Грузия"
+  },
+  "control": {
+   "en": "Administered by local de facto authorities since the 1990s",
+   "ru": "С 1990-х годов под управлением местных властей"
+  }
+ },
+ "D-SOSSETIA": {
+  "id": "D-SOSSETIA",
+  "name": {
+   "en": "South Ossetia",
+   "ru": "Южная Осетия"
+  },
+  "claimants": {
+   "en": "Claimed by Georgia and South Ossetia",
+   "ru": "На территорию претендуют Грузия и Южная Осетия"
+  },
+  "control": {
+   "en": "Administered by local de facto authorities since the 1990s",
+   "ru": "С 1990-х годов под управлением местных властей"
+  }
+ },
+ "D-TRANSNISTRIA": {
+  "id": "D-TRANSNISTRIA",
+  "name": {
+   "en": "Transnistria",
+   "ru": "Приднестровье"
+  },
+  "claimants": {
+   "en": "Claimed by Moldova and Transnistria",
+   "ru": "На территорию претендуют Молдавия и Приднестровье"
+  },
+  "control": {
+   "en": "Administered by local de facto authorities since 1992",
+   "ru": "С 1992 года под управлением местных властей"
+  }
+ },
+ "TWN": {
+  "id": "TWN",
+  "claimants": {
+   "en": "Claimed by the People's Republic of China and the Republic of China (Taiwan)",
+   "ru": "На территорию претендуют КНР и Китайская Республика (Тайвань)"
+  },
+  "control": {
+   "en": "Administered by the Republic of China since 1949",
+   "ru": "С 1949 года под управлением Китайской Республики"
+  }
+ },
+ "KOS": {
+  "id": "KOS",
+  "claimants": {
+   "en": "Claimed by Kosovo and Serbia",
+   "ru": "На территорию претендуют Косово и Сербия"
+  },
+  "control": {
+   "en": "Administered by Kosovo since 2008",
+   "ru": "С 2008 года под управлением Косова"
+  }
+ },
+ "CYN": {
+  "id": "CYN",
+  "claimants": {
+   "en": "Claimed by Cyprus and Northern Cyprus",
+   "ru": "На территорию претендуют Кипр и Северный Кипр"
+  },
+  "control": {
+   "en": "Administered by Northern Cyprus authorities since 1974",
+   "ru": "С 1974 года под управлением властей Северного Кипра"
+  }
+ },
+ "SOL": {
+  "id": "SOL",
+  "claimants": {
+   "en": "Claimed by Somalia and Somaliland",
+   "ru": "На территорию претендуют Сомали и Сомалиленд"
+  },
+  "control": {
+   "en": "Administered by Somaliland authorities since 1991",
+   "ru": "С 1991 года под управлением властей Сомалиленда"
+  }
+ }
+}

@@ -1,0 +1,458 @@
+{
+ "VIR": {
+  "en": [
+   "The US Virgin Islands are a US territory in the Caribbean, made up of St. Thomas, St. John and St. Croix.",
+   "More than half of St. John is protected as Virgin Islands National Park, known for its coral reefs and white beaches.",
+   "The islands were bought by the United States from Denmark in 1917 and were formerly known as the Danish West Indies."
+  ],
+  "ru": [
+   "Виргинские острова США — американская территория в Карибском море, в которую входят острова Сент-Томас, Сент-Джон и Сент-Круа.",
+   "Больше половины острова Сент-Джон занимает национальный парк Виргинских островов с коралловыми рифами и белыми пляжами.",
+   "США купили острова у Дании в 1917 году, до этого они назывались Датской Вест-Индией."
+  ]
+ },
+ "PRI": {
+  "en": [
+   "Puerto Rico is a US territory whose residents are US citizens but cannot vote in presidential elections.",
+   "Its Arecibo Observatory held the title of the world's largest single-dish radio telescope for decades.",
+   "Old San Juan, founded in the early 1500s, has some of the oldest European-built fortifications in the Americas."
+  ],
+  "ru": [
+   "Пуэрто-Рико — территория США, жители которой считаются гражданами США, но не голосуют на президентских выборах.",
+   "Обсерватория Аресибо десятилетиями имела самый большой в мире одиночный радиотелескоп.",
+   "Старый Сан-Хуан, основанный в начале XVI века, хранит одни из древнейших европейских укреплений в Америке."
+  ]
+ },
+ "USA": {
+  "en": [
+   "The United States has 50 states and stretches from the Atlantic to the Pacific, plus Alaska and Hawaii.",
+   "Yellowstone, founded in 1872, is widely regarded as the first national park in the world.",
+   "The Grand Canyon in Arizona is about 446 kilometres long and over 1,800 metres deep at its deepest."
+  ],
+  "ru": [
+   "В США 50 штатов, страна тянется от Атлантики до Тихого океана, а ещё включает Аляску и Гавайи.",
+   "Йеллоустон, основанный в 1872 году, считается первым национальным парком в мире.",
+   "Гранд-Каньон в Аризоне имеет длину около 446 километров и глубину более 1800 метров."
+  ]
+ },
+ "AIA": {
+  "en": [
+   "Anguilla is a British Overseas Territory said to be named after the word for eel, after its long, thin shape.",
+   "It is known for its white-sand beaches and clear turquoise water, with little mass tourism.",
+   "Anguilla's flag shows three dolphins and the Union Jack."
+  ],
+  "ru": [
+   "Ангилья — заморская территория Великобритании, название которой, по преданию, связано со словом «угорь» из-за вытянутой формы острова.",
+   "Остров известен белыми песчаными пляжами и бирюзовой водой, при этом массового туризма здесь мало.",
+   "На флаге Ангильи изображены три дельфина и «Юнион Джек»."
+  ]
+ },
+ "CYM": {
+  "en": [
+   "The Cayman Islands are a British Overseas Territory and are among the world's major offshore financial centres.",
+   "Seven Mile Beach on Grand Cayman is one of the best-known beaches in the Caribbean.",
+   "The Cayman Trough nearby is one of the deepest points in the Caribbean Sea, over 7,000 metres deep."
+  ],
+  "ru": [
+   "Каймановы острова — заморская территория Великобритании и один из крупнейших в мире офшорных финансовых центров.",
+   "Пляж Севен-Майл-Бич на острове Большой Кайман — один из самых известных в Карибском регионе.",
+   "Рядом находится Кайманов жёлоб, одна из самых глубоких впадин Карибского моря, глубиной более 7000 метров."
+  ]
+ },
+ "BMU": {
+  "en": [
+   "Bermuda is a British Overseas Territory in the North Atlantic, roughly 1,000 kilometres from the US coast.",
+   "It is part of the so-called Bermuda Triangle, though scientists see no mystery there.",
+   "Bermuda is famous for pink-sand beaches and Bermuda shorts, worn as business wear."
+  ],
+  "ru": [
+   "Бермуды — заморская территория Великобритании в Северной Атлантике, примерно в 1000 километрах от побережья США.",
+   "Острова входят в так называемый Бермудский треугольник, хотя учёные не видят там никакой тайны.",
+   "Бермуды известны пляжами с розовым песком и бермудскими шортами, которые носят даже как деловой костюм."
+  ]
+ },
+ "VGB": {
+  "en": [
+   "The British Virgin Islands consist of about 60 islands and cays, only a handful of them inhabited.",
+   "Tortola is the largest and main island, and Virgin Gorda has famous giant granite boulders known as The Baths.",
+   "The territory is a major sailing destination and a well-known offshore financial centre."
+  ],
+  "ru": [
+   "Британские Виргинские острова состоят примерно из 60 островов и рифов, обитаемы лишь немногие.",
+   "Тортола — крупнейший остров, а на Вирджин-Горде находятся знаменитые гигантские гранитные валуны «Ванны».",
+   "Территория — популярное место для парусного спорта и известный офшорный финансовый центр."
+  ]
+ },
+ "TCA": {
+  "en": [
+   "The Turks and Caicos Islands are a British Overseas Territory southeast of the Bahamas.",
+   "Grace Bay Beach on Providenciales is often ranked among the best beaches in the world.",
+   "The islands have one of the largest coral reefs in the Caribbean, and humpback whales pass by in winter."
+  ],
+  "ru": [
+   "Острова Тёркс и Кайкос — заморская территория Великобритании к юго-востоку от Багамских островов.",
+   "Пляж Грейс-Бэй на острове Провиденсьялес нередко называют одним из лучших пляжей мира.",
+   "У островов один из крупнейших коралловых рифов Карибского моря, а зимой мимо проплывают горбатые киты."
+  ]
+ },
+ "MSR": {
+  "en": [
+   "Montserrat is nicknamed the Emerald Isle of the Caribbean because of its green hills and Irish heritage.",
+   "The Soufrière Hills volcano erupted in 1995 and destroyed the capital Plymouth.",
+   "The southern part of the island is still an exclusion zone because of volcanic activity."
+  ],
+  "ru": [
+   "Монтсеррат называют Изумрудным островом Карибов за зелёные холмы и ирландское наследие.",
+   "Вулкан Суфриер-Хиллс проснулся в 1995 году и разрушил столицу Плимут.",
+   "Южная часть острова до сих пор остаётся закрытой зоной из-за вулканической активности."
+  ]
+ },
+ "TTO": {
+  "en": [
+   "Trinidad and Tobago is the birthplace of calypso, soca and the steelpan, the only acoustic instrument invented in the 20th century.",
+   "Pitch Lake in Trinidad is the largest natural deposit of asphalt in the world.",
+   "Trinidad's Carnival is one of the biggest street festivals in the Caribbean."
+  ],
+  "ru": [
+   "Тринидад и Тобаго — родина калипсо, сокá и стальных барабанов, единственного акустического инструмента, изобретённого в XX веке.",
+   "Асфальтовое озеро Питч-Лейк на Тринидаде — крупнейшее в мире природное месторождение асфальта.",
+   "Карнавал на Тринидаде — один из самых больших уличных праздников Карибского региона."
+  ]
+ },
+ "VCT": {
+  "en": [
+   "Saint Vincent and the Grenadines include 32 islands and cays, many of them popular for sailing.",
+   "La Soufrière volcano on the main island erupted in 2021 and forced the evacuation of thousands of people.",
+   "Parts of the film Pirates of the Caribbean were shot on Saint Vincent."
+  ],
+  "ru": [
+   "Сент-Винсент и Гренадины включают 32 острова и рифа, многие из которых популярны среди яхтсменов.",
+   "Вулкан Суфриер на главном острове проснулся в 2021 году, и тысячи людей эвакуировали.",
+   "Часть сцен «Пиратов Карибского моря» снимали на острове Сент-Винсент."
+  ]
+ },
+ "LCA": {
+  "en": [
+   "Saint Lucia is often called the only country named after a woman, Saint Lucy of Syracuse.",
+   "The Pitons, two volcanic spires on the coast, are a UNESCO World Heritage Site.",
+   "Saint Lucia has produced two Nobel laureates, Arthur Lewis and Derek Walcott, relative to its small size."
+  ],
+  "ru": [
+   "Сент-Люсию называют единственной страной, названной в честь женщины, — святой Люсии Сиракузской.",
+   "Питон-Менеджмент-Ареа — две вулканические скалы на побережье — входит в Всемирное наследие ЮНЕСКО.",
+   "Для своих размеров Сент-Люсия дала двух нобелевских лауреатов — Артура Льюиса и Дерека Уолкотта."
+  ]
+ },
+ "KNA": {
+  "en": [
+   "Saint Kitts and Nevis is the smallest sovereign country in the Americas by both area and population.",
+   "Brimstone Hill Fortress, built by the British in the 17th and 18th centuries, is a UNESCO site.",
+   "Nevis was the birthplace of Alexander Hamilton, a founding father of the United States."
+  ],
+  "ru": [
+   "Сент-Китс и Невис — самая маленькая суверенная страна обеих Америк по площади и по населению.",
+   "Крепость Бримстон-Хилл, построенная британцами в XVII–XVIII веках, — объект ЮНЕСКО.",
+   "На острове Невис родился Александр Гамильтон, один из отцов-основателей США."
+  ]
+ },
+ "PAN": {
+  "en": [
+   "The Panama Canal, opened in 1914, links the Atlantic and Pacific oceans and saves ships a long trip around South America.",
+   "Panama is one of the few places where you can see the sun rise over the Pacific and set over the Atlantic.",
+   "Panama's currency, the balboa, is used alongside the US dollar."
+  ],
+  "ru": [
+   "Панамский канал, открытый в 1914 году, соединяет Атлантический и Тихий океаны и избавляет суда от долгого пути вокруг Южной Америки.",
+   "Панама — одно из немногих мест, где солнце можно увидеть встающим над Тихим океаном и садящимся над Атлантикой.",
+   "Денежная единица Панамы — бальбоа, но на практике рядом с ней используют доллар США."
+  ]
+ },
+ "NIC": {
+  "en": [
+   "Lake Nicaragua is the largest lake in Central America and has freshwater bull sharks.",
+   "Nicaragua is known as the land of lakes and volcanoes.",
+   "Volcano boarding is a popular activity at Cerro Negro, where people slide down its slopes on boards."
+  ],
+  "ru": [
+   "Озеро Никарагуа — крупнейшее озеро Центральной Америки, в нём живут пресноводные тупорылые акулы.",
+   "Никарагуа называют страной озёр и вулканов.",
+   "На вулкане Серро-Негро популярен вулканборд — спуск по склону на специальной доске."
+  ]
+ },
+ "ABW": {
+  "en": [
+   "Aruba lies just off the coast of Venezuela but is a constituent country of the Kingdom of the Netherlands.",
+   "It has a dry, sunny climate and sits outside the main hurricane belt.",
+   "Dutch, Papiamento, English and Spanish are widely spoken on the island."
+  ],
+  "ru": [
+   "Аруба расположена у берегов Венесуэлы, но входит в Королевство Нидерландов как самостоятельная страна.",
+   "Здесь сухой и солнечный климат, а остров лежит вне основной зоны ураганов.",
+   "На острове широко говорят на нидерландском, папьяменто, английском и испанском."
+  ]
+ },
+ "CUW": {
+  "en": [
+   "Curaçao's capital Willemstad has colourful Dutch-style buildings and is a UNESCO World Heritage Site.",
+   "The island's Queen Emma pontoon bridge swings open to let ships pass.",
+   "The blue Curaçao liqueur is named after the island, made with the peel of the local laraha orange."
+  ],
+  "ru": [
+   "Столица Кюрасао Виллемстад с разноцветными домами в голландском стиле входит в список Всемирного наследия ЮНЕСКО.",
+   "Плавучий мост королевы Эммы раскрывается, пропуская корабли.",
+   "Ликёр «Блю кюрасао» назван в честь острова и делается из кожуры местного апельсина лараха."
+  ]
+ },
+ "MEX": {
+  "en": [
+   "Mexico City was built on the site of the Aztec capital Tenochtitlan, which stood on an island in a lake.",
+   "Chocolate, chilli peppers, maize and tomatoes all have roots in Mexico and the wider Mesoamerica.",
+   "The Chichén Itzá pyramid, built by the Maya, is one of the New Seven Wonders of the World."
+  ],
+  "ru": [
+   "Мехико построен на месте столицы ацтеков Теночтитлана, стоявшей на острове посреди озера.",
+   "Шоколад, острый перец, кукуруза и помидоры ведут своё происхождение из Мексики и Мезоамерики.",
+   "Пирамида в Чичен-Ице, построенная майя, входит в список «Новых семи чудес света»."
+  ]
+ },
+ "JAM": {
+  "en": [
+   "Jamaica is the birthplace of reggae, and Bob Marley is its most famous musician.",
+   "Usain Bolt, born in Jamaica, holds the world records in the 100 and 200 metres.",
+   "Blue Mountain coffee from the island's highlands is among the most prized coffees in the world."
+  ],
+  "ru": [
+   "Ямайка — родина регги, а Боб Марли — её самый известный музыкант.",
+   "Усэйн Болт, родившийся на Ямайке, — рекордсмен мира в беге на 100 и 200 метров.",
+   "Кофе «Блю-Маунтин» с ямайских гор считается одним из самых ценных в мире."
+  ]
+ },
+ "HND": {
+  "en": [
+   "Honduras has the ruins of Copán, a major Maya city with remarkable carved stone inscriptions.",
+   "The Bay Islands off its coast sit along the Mesoamerican Barrier Reef, the second-largest reef system in the world.",
+   "The Río Plátano Biosphere Reserve protects one of the largest remaining areas of rainforest in Central America."
+  ],
+  "ru": [
+   "В Гондурасе находятся руины Копана — крупного города майя с замечательными резными каменными надписями.",
+   "Бэй-Айлендс у побережья лежат вдоль Мезоамериканского барьерного рифа, второго по величине в мире.",
+   "Биосферный резерват Рио-Платано охраняет одну из крупнейших оставшихся территорий тропического леса Центральной Америки."
+  ]
+ },
+ "HTI": {
+  "en": [
+   "Haiti became the first Black-led republic in the world after a successful slave revolt ended French rule in 1804.",
+   "It shares the island of Hispaniola with the Dominican Republic.",
+   "The Citadelle Laferrière, a huge mountaintop fortress, was built in the early 1800s after independence."
+  ],
+  "ru": [
+   "Гаити стала первой в мире республикой, возглавляемой чернокожими, после успешного восстания рабов, положившего конец власти Франции в 1804 году.",
+   "Страна делит остров Гаити с Доминиканской Республикой.",
+   "Огромная крепость Ситадель-Лаферьер на вершине горы была построена в начале XIX века после обретения независимости."
+  ]
+ },
+ "GTM": {
+  "en": [
+   "Guatemala is home to Tikal, one of the largest ancient Maya cities, with pyramids rising above the jungle canopy.",
+   "The country has more than 30 volcanoes, and some, like Fuego, are active.",
+   "Lake Atitlán sits in a volcanic crater and is surrounded by three volcanoes."
+  ],
+  "ru": [
+   "В Гватемале находится Тикаль — один из крупнейших древних городов майя, пирамиды которого поднимаются над кронами джунглей.",
+   "В стране более 30 вулканов, и некоторые из них, например Фуэго, действующие.",
+   "Озеро Атитлан лежит в вулканической котловине в окружении трёх вулканов."
+  ]
+ },
+ "GRD": {
+  "en": [
+   "Grenada is nicknamed the Spice Isle because it is one of the world's largest producers of nutmeg.",
+   "It has an underwater sculpture park in Molinere Bay that attracts divers.",
+   "Grenada's flag features a nutmeg on the green triangle."
+  ],
+  "ru": [
+   "Гренаду называют островом пряностей: она — один из крупнейших в мире производителей мускатного ореха.",
+   "В бухте Молиньер у острова есть подводный парк скульптур, который привлекает дайверов.",
+   "На флаге Гренады есть изображение мускатного ореха."
+  ]
+ },
+ "SPM": {
+  "en": [
+   "Saint Pierre and Miquelon is a French territory just off the coast of Newfoundland, Canada.",
+   "It is the only remaining part of the former French colonial empire in North America.",
+   "The islands are often shrouded in fog, and many shipwrecks lie around their coasts."
+  ],
+  "ru": [
+   "Сен-Пьер и Микелон — французская территория у берегов острова Ньюфаундленд в Канаде.",
+   "Это единственная сохранившаяся часть бывшей французской колониальной империи в Северной Америке.",
+   "Острова часто окутаны туманом, а у их берегов лежит много затонувших кораблей."
+  ]
+ },
+ "MAF": {
+  "en": [
+   "Saint Martin is shared between France and the Netherlands, one of the smallest inhabited islands divided between two nations.",
+   "The French side, Saint-Martin, is part of France, while the Dutch side is Sint Maarten.",
+   "The island has no hard border: travellers can cross freely between the two halves."
+  ],
+  "ru": [
+   "Остров Сен-Мартен поделён между Францией и Нидерландами и относится к самым маленьким обитаемым островам, разделённым двумя странами.",
+   "Французская часть, Сен-Мартен, входит во Францию, а голландская называется Синт-Мартен.",
+   "Жёсткой границы на острове нет: путешественники свободно переходят из одной половины в другую."
+  ]
+ },
+ "BLM": {
+  "en": [
+   "Saint Barthélemy, nicknamed St Barts, is a French overseas collectivity and a glamorous Caribbean getaway.",
+   "It was a Swedish colony for about a century, until 1878, and its capital Gustavia is named after a Swedish king.",
+   "The island is only about 25 square kilometres in area."
+  ],
+  "ru": [
+   "Сен-Бартелеми, или Сен-Барт, — заморское сообщество Франции и модный карибский курорт.",
+   "Около века остров принадлежал Швеции, до 1878 года, а его столица Густавия названа в честь шведского короля.",
+   "Площадь острова — всего около 25 квадратных километров."
+  ]
+ },
+ "SLV": {
+  "en": [
+   "El Salvador is the smallest country in Central America and is often called the Land of Volcanoes.",
+   "The country has about 20 volcanoes, some of them still active.",
+   "The pupusa, a stuffed corn tortilla, is the national dish."
+  ],
+  "ru": [
+   "Сальвадор — самая маленькая страна Центральной Америки, её часто называют страной вулканов.",
+   "В стране около 20 вулканов, часть из них действующие.",
+   "Национальное блюдо — пупуса, кукурузная лепёшка с начинкой."
+  ]
+ },
+ "DOM": {
+  "en": [
+   "The Dominican Republic is home to Santo Domingo, the oldest European-founded city in the Americas, established in 1496.",
+   "Baseball is hugely popular, and the country has sent many stars to Major League Baseball.",
+   "Pico Duarte, at about 3,100 metres, is the highest peak in the Caribbean."
+  ],
+  "ru": [
+   "В Доминиканской Республике находится Санто-Доминго — старейший основанный европейцами город Америки, основанный в 1496 году.",
+   "Бейсбол здесь невероятно популярен, и страна дала множество звёзд Главной лиги бейсбола.",
+   "Пико-Дуарте высотой около 3100 метров — высшая точка Карибского региона."
+  ]
+ },
+ "DMA": {
+  "en": [
+   "Dominica is called the Nature Isle of the Caribbean for its rainforests, rivers and waterfalls.",
+   "It has the Boiling Lake, one of the largest hot lakes in the world, in a flooded volcanic fumarole.",
+   "The Kalinago people still live in a protected territory on the island."
+  ],
+  "ru": [
+   "Доминику называют природным островом Карибов за её тропические леса, реки и водопады.",
+   "На острове находится Кипящее озеро — одно из самых больших горячих озёр мира, образованное затопленным вулканическим жерлом.",
+   "На острове до сих пор живёт народ калинаго на охраняемой территории."
+  ]
+ },
+ "GRL": {
+  "en": [
+   "Greenland is the largest island in the world that is not a continent, covered mostly by an ice sheet up to about 3 kilometres thick.",
+   "It is a self-governing territory of Denmark, with a very low population density.",
+   "The ice sheet holds enough water to raise global sea level by around seven metres if it melted completely."
+  ],
+  "ru": [
+   "Гренландия — крупнейший остров мира, не являющийся материком; большую её часть покрывает ледяной щит толщиной до 3 километров.",
+   "Это самоуправляемая территория Дании с очень низкой плотностью населения.",
+   "Если бы ледяной щит растаял полностью, уровень Мирового океана поднялся бы примерно на семь метров."
+  ]
+ },
+ "CUB": {
+  "en": [
+   "Cuba is the largest island in the Caribbean and is known for classic American cars from the 1950s still on the roads.",
+   "Cuban cigars and rum are among the country's best-known exports.",
+   "The bee hummingbird, the smallest bird in the world, lives only in Cuba."
+  ],
+  "ru": [
+   "Куба — крупнейший остров Карибского моря, там до сих пор ездят классические американские автомобили 1950-х годов.",
+   "Кубинские сигары и ром — одни из самых известных товаров страны.",
+   "Колибри-пчёлка, самая маленькая птица в мире, живёт только на Кубе."
+  ]
+ },
+ "CRI": {
+  "en": [
+   "Costa Rica abolished its army in 1948 and invests heavily in education and nature.",
+   "It holds about five percent of the world's biodiversity despite covering a tiny fraction of the land.",
+   "Almost all of its electricity comes from renewable sources such as hydropower and geothermal energy."
+  ],
+  "ru": [
+   "Коста-Рика упразднила армию в 1948 году и много вкладывает в образование и охрану природы.",
+   "Здесь около пяти процентов мирового биоразнообразия при крошечной доле площади суши.",
+   "Почти вся электроэнергия страны вырабатывается из возобновляемых источников, например на ГЭС и геотермальных станциях."
+  ]
+ },
+ "CAN": {
+  "en": [
+   "Canada has the longest coastline of any country in the world.",
+   "It has more lakes than the rest of the world combined, according to commonly cited estimates.",
+   "The Bay of Fundy has the highest tides on Earth, with a range of up to about 16 metres."
+  ],
+  "ru": [
+   "У Канады самая длинная береговая линия среди всех стран мира.",
+   "По распространённым оценкам, озёр в Канаде больше, чем во всём остальном мире вместе взятом.",
+   "В заливе Фанди самые высокие приливы на Земле — перепад уровня воды достигает примерно 16 метров."
+  ]
+ },
+ "BLZ": {
+  "en": [
+   "Belize has the Great Blue Hole, a giant marine sinkhole over 300 metres wide that is popular with divers.",
+   "The Belize Barrier Reef is the largest reef system in the Northern Hemisphere.",
+   "Belize is the only country in Central America where English is the official language."
+  ],
+  "ru": [
+   "У Белиза есть Большая голубая дыра — гигантская подводная воронка шириной более 300 метров, любимое место дайверов.",
+   "Белизский барьерный риф — крупнейшая система рифов в Северном полушарии.",
+   "Белиз — единственная страна Центральной Америки, где английский язык является официальным."
+  ]
+ },
+ "BRB": {
+  "en": [
+   "Barbados is the easternmost island of the Caribbean and was long under British rule until independence in 1966.",
+   "It is the birthplace of the singer Rihanna.",
+   "Barbados became a republic in 2021, replacing the British monarch as head of state."
+  ],
+  "ru": [
+   "Барбадос — самый восточный остров Карибов, долго находился под властью Британии вплоть до независимости в 1966 году.",
+   "Здесь родилась певица Рианна.",
+   "В 2021 году Барбадос стал республикой, заменив британского монарха собственным главой государства."
+  ]
+ },
+ "BHS": {
+  "en": [
+   "The Bahamas consist of about 700 islands and thousands of cays in the Atlantic Ocean.",
+   "It has Pig Beach, where swimming pigs greet visitors.",
+   "Andros Island in the Bahamas has the third-largest barrier reef in the world, in extremely clear turquoise water."
+  ],
+  "ru": [
+   "Багамы состоят примерно из 700 островов и тысяч мелких рифовых островков в Атлантическом океане.",
+   "На одном из пляжей, Пиг-Бич, посетителей встречают плавающие свиньи.",
+   "Возле острова Андрос на Багамах находится третий по величине барьерный риф мира в необыкновенно прозрачной бирюзовой воде."
+  ]
+ },
+ "ATG": {
+  "en": [
+   "Antigua and Barbuda is said to have 365 beaches, one for every day of the year.",
+   "Nelson's Dockyard in English Harbour is a UNESCO World Heritage Site.",
+   "The Antigua Sailing Week is one of the best-known regattas in the Caribbean."
+  ],
+  "ru": [
+   "Говорят, что на Антигуа и Барбуде 365 пляжей — по одному на каждый день года.",
+   "Верфь Нельсона в Инглиш-Харбор входит в список Всемирного наследия ЮНЕСКО.",
+   "Парусная неделя Антигуа — одна из самых известных регат Карибского региона."
+  ]
+ },
+ "SXM": {
+  "en": [
+   "Sint Maarten is the Dutch half of the island of Saint Martin, a constituent country of the Netherlands.",
+   "Planes land very low over Maho Beach, delighting spectators.",
+   "The whole island is only about 87 square kilometres, with the Dutch part in the south."
+  ],
+  "ru": [
+   "Синт-Мартен — голландская половина острова Сен-Мартен и самостоятельная страна в составе Нидерландов.",
+   "Над пляжем Махо самолёты заходят на посадку очень низко, к восторгу зрителей.",
+   "Весь остров занимает всего около 87 квадратных километров, голландская часть лежит на юге."
+  ]
+ }
+}

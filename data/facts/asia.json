@@ -1,0 +1,638 @@
+{
+ "YEM": {
+  "en": [
+   "Yemen's Socotra island has the dragon's blood tree, whose umbrella-shaped crown and red resin look like something from another planet.",
+   "Sana'a's old city, with its multi-storey tower houses of mud brick, has been inhabited for over two thousand years.",
+   "Yemen is the historic homeland of Mocha coffee, named after the Red Sea port from which beans were once shipped around the world."
+  ],
+  "ru": [
+   "На острове Сокотра растёт драконово дерево с зонтичной кроной и красной смолой — оно выглядит как растение с другой планеты.",
+   "Старый город Саны с многоэтажными башенными домами из глинобитного кирпича заселён более двух тысяч лет.",
+   "Йемен — историческая родина кофе мокко, названного по красноморскому порту, откуда зёрна отправляли по всему миру."
+  ]
+ },
+ "VNM": {
+  "en": [
+   "Son Doong in Vietnam is one of the largest known caves on Earth, big enough to hold its own jungle and river.",
+   "Vietnam is one of the world's biggest coffee producers and the leading exporter of robusta beans.",
+   "Ha Long Bay is dotted with nearly two thousand limestone islands and is a UNESCO World Heritage Site."
+  ],
+  "ru": [
+   "Шондонг во Вьетнаме — одна из крупнейших известных пещер мира: внутри неё есть собственные джунгли и река.",
+   "Вьетнам — один из крупнейших производителей кофе и ведущий экспортёр сорта робуста.",
+   "Бухта Халонг усеяна почти двумя тысячами известняковых островков и включена в список Всемирного наследия ЮНЕСКО."
+  ]
+ },
+ "UZB": {
+  "en": [
+   "Uzbekistan is one of only two doubly landlocked countries in the world: every neighbour is also landlocked.",
+   "Samarkand, on the ancient Silk Road, is famed for the turquoise-tiled Registan square.",
+   "The Aral Sea on its border has lost most of its water since the 1960s, one of the worst ecological disasters in history."
+  ],
+  "ru": [
+   "Узбекистан — одна из двух стран мира, дважды лишённых выхода к морю: все его соседи тоже не имеют морского побережья.",
+   "Самарканд на Великом шёлковом пути знаменит площадью Регистан с бирюзовой мозаикой.",
+   "Аральское море на границе страны с 1960-х потеряло почти всю воду — это одна из крупнейших экологических катастроф."
+  ]
+ },
+ "ARE": {
+  "en": [
+   "The Burj Khalifa in Dubai is the tallest building in the world, rising over 800 metres.",
+   "The UAE is a federation of seven emirates, with Abu Dhabi the largest by area.",
+   "Camel racing is a beloved traditional sport here, and robots now often ride as jockeys."
+  ],
+  "ru": [
+   "Бурдж-Халифа в Дубае — самое высокое здание мира, его высота превышает 800 метров.",
+   "ОАЭ — федерация из семи эмиратов, самый большой из которых — Абу-Даби.",
+   "Верблюжьи бега — любимый традиционный спорт, а в роли жокеев теперь часто выступают роботы."
+  ]
+ },
+ "TKM": {
+  "en": [
+   "The Darvaza gas crater in the Karakum Desert has burned continuously for decades and is nicknamed the Gates of Hell.",
+   "Turkmenistan is famous for the Akhal-Teke, a slender horse breed with a naturally metallic sheen.",
+   "About 70 percent of the country is covered by the Karakum Desert."
+  ],
+  "ru": [
+   "Газовый кратер Дарваза в пустыне Каракумы горит непрерывно уже десятилетиями и называется «Врата ада».",
+   "Туркменистан прославлен ахалтекинцами — стройными лошадьми с природным металлическим блеском шерсти.",
+   "Около 70 процентов территории страны занимают пески пустыни Каракумы."
+  ]
+ },
+ "TUR": {
+  "en": [
+   "Istanbul is the only major city in the world that spans two continents, Europe and Asia.",
+   "Göbekli Tepe in Turkey holds stone temples about 11,000 years old, older than Stonehenge by thousands of years.",
+   "Cappadocia's fairy chimneys and cave dwellings draw hot-air balloons by the hundreds each morning."
+  ],
+  "ru": [
+   "Стамбул — единственный крупный город мира, расположенный сразу на двух континентах: в Европе и Азии.",
+   "В Гёбекли-Тепе найдены каменные храмы возрастом около 11 000 лет — они намного старше Стоунхенджа.",
+   "Над причудливыми скалами и пещерными жилищами Каппадокии каждое утро поднимаются сотни воздушных шаров."
+  ]
+ },
+ "TLS": {
+  "en": [
+   "East Timor became independent in 2002 and was the first new sovereign state of the 21st century.",
+   "It shares the island of Timor with Indonesia and is one of only two mainly Catholic countries in Asia, with the Philippines.",
+   "The country's waters hold some of the richest coral reef biodiversity on the planet."
+  ],
+  "ru": [
+   "Восточный Тимор получил независимость в 2002 году и стал первым новым суверенным государством XXI века.",
+   "Он делит остров Тимор с Индонезией и, как и Филиппины, является одной из двух преимущественно католических стран Азии.",
+   "В водах страны находятся одни из самых богатых по биоразнообразию коралловых рифов планеты."
+  ]
+ },
+ "THA": {
+  "en": [
+   "Thailand is the only Southeast Asian country that was never colonised by a European power.",
+   "Bangkok's full ceremonial name is among the longest city names in the world.",
+   "Thailand is a leading exporter of rice, and Thai cuisine balances sweet, sour, salty and spicy in a single dish."
+  ],
+  "ru": [
+   "Таиланд — единственная страна Юго-Восточной Азии, которая никогда не была колонией европейской державы.",
+   "Полное церемониальное название Бангкока — одно из самых длинных названий городов в мире.",
+   "Таиланд — один из крупнейших экспортёров риса, а тайская кухня сочетает сладкое, кислое, солёное и острое в одном блюде."
+  ]
+ },
+ "TJK": {
+  "en": [
+   "About 90 percent of Tajikistan is mountainous, and the Pamir range is nicknamed the Roof of the World.",
+   "Fedchenko Glacier here is one of the longest glaciers outside the polar regions.",
+   "Tajik is a form of Persian, which makes Tajikistan the only Central Asian country with a Persian-speaking majority."
+  ],
+  "ru": [
+   "Около 90 процентов Таджикистана занимают горы, а Памир называют «Крышей мира».",
+   "Ледник Федченко здесь — один из самых длинных ледников за пределами полярных областей.",
+   "Таджикский язык — разновидность персидского, поэтому это единственная страна Центральной Азии с персоязычным большинством."
+  ]
+ },
+ "TWN": {
+  "en": [
+   "Taipei 101 was the tallest building in the world from 2004 to 2010 and has a giant damper ball to resist earthquakes and typhoons.",
+   "Taiwan is a world leader in making advanced computer chips.",
+   "Bubble tea was invented in Taiwan in the 1980s and has since spread across the globe."
+  ],
+  "ru": [
+   "Тайбэй 101 с 2004 по 2010 год был самым высоким зданием мира; внутри него висит огромный шар-демпфер против землетрясений и тайфунов.",
+   "Тайвань — мировой лидер по производству современных компьютерных чипов.",
+   "Жемчужный чай с пузырьками изобрели на Тайване в 1980-х, а теперь его пьют по всему миру."
+  ]
+ },
+ "SYR": {
+  "en": [
+   "Damascus is among the oldest continuously inhabited cities in the world.",
+   "The ancient oasis city of Palmyra was a major caravan hub linking Rome with Persia and beyond.",
+   "Syria's Aleppo is traditionally associated with laurel-oil soap, a forerunner of the modern bar of soap."
+  ],
+  "ru": [
+   "Дамаск — один из древнейших непрерывно населённых городов мира.",
+   "Древний оазис Пальмира был крупным караванным узлом между Римом и Персией.",
+   "С сирийским Алеппо традиционно связано лавровое мыло — предшественник современного кускового мыла."
+  ]
+ },
+ "LKA": {
+  "en": [
+   "Sri Lanka is one of the world's top tea exporters, and Ceylon tea is a global brand.",
+   "The rock fortress of Sigiriya, built in the 5th century, has famous ancient frescoes and a lion-paw gateway.",
+   "Sri Lanka has some of the oldest continuously documented chronicles in the world, such as the Mahavamsa."
+  ],
+  "ru": [
+   "Шри-Ланка — один из крупнейших экспортёров чая, а цейлонский чай известен всему миру.",
+   "Скальная крепость Сигирия V века славится древними фресками и воротами в виде львиных лап.",
+   "В Шри-Ланке сохранились одни из старейших непрерывно ведущихся летописей мира, например «Махавамса»."
+  ]
+ },
+ "KOR": {
+  "en": [
+   "South Korea has one of the fastest average internet speeds in the world and a huge esports culture.",
+   "Kimchi, a fermented vegetable dish, is served at almost every Korean meal, and there are hundreds of varieties.",
+   "The Korean alphabet, Hangul, was created in the 15th century under King Sejong so that ordinary people could learn to read."
+  ],
+  "ru": [
+   "В Южной Корее одна из самых высоких средних скоростей интернета в мире и огромная культура киберспорта.",
+   "Кимчи — ферментированные овощи — подают почти к каждой трапезе, а разновидностей блюда сотни.",
+   "Корейский алфавит хангыль создан в XV веке при короле Седжоне, чтобы простые люди могли научиться читать."
+  ]
+ },
+ "SGP": {
+  "en": [
+   "Singapore is a city-state on one main island plus dozens of smaller ones, and has expanded its land area through reclamation.",
+   "Its Changi Airport has an indoor waterfall and is regularly ranked among the best airports in the world.",
+   "Hawker centres serving street food in Singapore have been recognised by UNESCO as intangible cultural heritage."
+  ],
+  "ru": [
+   "Сингапур — город-государство на одном главном острове и десятках мелких, чья площадь выросла за счёт намыва земли.",
+   "В аэропорту Чанги есть крытый водопад, и его регулярно называют одним из лучших аэропортов мира.",
+   "Сингапурские центры уличной еды хокер признаны ЮНЕСКО нематериальным культурным наследием."
+  ]
+ },
+ "SAU": {
+  "en": [
+   "Saudi Arabia has no permanent rivers, and much of its drinking water comes from desalination of seawater.",
+   "The Rub' al Khali, or Empty Quarter, in the south is one of the largest continuous sand deserts in the world.",
+   "Every year millions of Muslims make the hajj pilgrimage to Mecca, one of the biggest annual gatherings of people on Earth."
+  ],
+  "ru": [
+   "В Саудовской Аравии нет постоянных рек, и значительная часть питьевой воды получается опреснением морской воды.",
+   "Руб-эль-Хали, или «Пустая четверть», на юге — одна из крупнейших песчаных пустынь мира.",
+   "Каждый год миллионы мусульман совершают хадж в Мекку — это одно из крупнейших ежегодных собраний людей на Земле."
+  ]
+ },
+ "QAT": {
+  "en": [
+   "Qatar hosted the 2022 FIFA World Cup, the first men's World Cup held in the Arab world.",
+   "Almost the whole country is a flat desert peninsula jutting into the Persian Gulf.",
+   "Qatar has one of the largest natural gas reserves in the world, shared with Iran in the vast North Field."
+  ],
+  "ru": [
+   "Катар принимал чемпионат мира по футболу 2022 года — первый мужской мундиаль в арабском мире.",
+   "Почти вся страна — плоский пустынный полуостров, выдающийся в Персидский залив.",
+   "В Катаре одни из крупнейших в мире запасов природного газа, на гигантском месторождении Северное, общем с Ираном."
+  ]
+ },
+ "PHL": {
+  "en": [
+   "The Philippines consists of more than 7,000 islands.",
+   "The Chocolate Hills of Bohol are over a thousand grass-covered mounds that turn brown in the dry season.",
+   "The Philippines is regularly hit by typhoons and sits on the Pacific Ring of Fire with many active volcanoes."
+  ],
+  "ru": [
+   "Филиппины состоят из более чем 7000 островов.",
+   "Шоколадные холмы острова Бохол — свыше тысячи покрытых травой конусов, которые в сухой сезон становятся коричневыми.",
+   "Филиппины часто страдают от тайфунов и лежат на Тихоокеанском огненном кольце с множеством действующих вулканов."
+  ]
+ },
+ "PAK": {
+  "en": [
+   "Pakistan is home to K2, the second-highest mountain on Earth.",
+   "The Indus Valley civilisation, with cities like Mohenjo-daro, flourished here more than 4,000 years ago.",
+   "Sialkot is a major world centre for making hand-stitched footballs, including balls for international tournaments."
+  ],
+  "ru": [
+   "В Пакистане находится К2 — вторая по высоте гора мира.",
+   "Цивилизация долины Инда с городами вроде Мохенджо-Даро процветала здесь более 4000 лет назад.",
+   "Сиалкот — крупный мировой центр производства мячей ручной сшивки, в том числе для международных турниров."
+  ]
+ },
+ "OMN": {
+  "en": [
+   "Oman has been a seafaring nation for centuries, and its sailors reached East Africa and India.",
+   "The country has long been a source of frankincense, resin from trees in the southern Dhofar region.",
+   "Oman's Sultan Qaboos Grand Mosque houses one of the largest hand-woven carpets in the world."
+  ],
+  "ru": [
+   "Оман — мореходная нация на протяжении веков: его моряки доходили до Восточной Африки и Индии.",
+   "Страна издавна поставляет ладан — смолу деревьев южного региона Дофар.",
+   "В Большой мечети султана Кабуса лежит один из крупнейших ковров ручной работы в мире."
+  ]
+ },
+ "PRK": {
+  "en": [
+   "Mount Paektu, an active volcano on the border with China, is the highest peak of the Korean Peninsula.",
+   "Pyongyang's metro is among the deepest in the world, and its stations double as bomb shelters.",
+   "The Korean Demilitarized Zone, a narrow band along the border, has become an unintended refuge for wildlife."
+  ],
+  "ru": [
+   "Вулкан Пэктусан на границе с Китаем — высшая точка Корейского полуострова.",
+   "Метро Пхеньяна — одно из самых глубоких в мире, и его станции могут служить бомбоубежищами.",
+   "Корейская демилитаризованная зона вдоль границы стала непреднамеренным убежищем для диких животных."
+  ]
+ },
+ "NPL": {
+  "en": [
+   "Nepal contains eight of the world's fourteen mountains higher than 8,000 metres, including Mount Everest.",
+   "Its flag is the only national flag in the world that is not rectangular.",
+   "Lumbini in southern Nepal is traditionally considered the birthplace of Buddha."
+  ],
+  "ru": [
+   "В Непале расположены восемь из четырнадцати гор мира выше 8000 метров, включая Эверест.",
+   "Его флаг — единственный в мире национальный флаг нечетырёхугольной формы.",
+   "Лумбини на юге Непала по традиции считается местом рождения Будды."
+  ]
+ },
+ "MNG": {
+  "en": [
+   "Mongolia is one of the least densely populated countries on Earth, with huge steppes and many herders.",
+   "Genghis Khan founded the Mongol Empire in 1206, which grew into the largest contiguous land empire in history.",
+   "Naadam, the national festival, features wrestling, archery and horse racing."
+  ],
+  "ru": [
+   "Монголия — одна из самых малонаселённых стран мира: огромные степи и множество скотоводов.",
+   "Чингисхан основал Монгольскую империю в 1206 году, и она стала крупнейшей сплошной сухопутной империей в истории.",
+   "На национальном празднике Надом проходят борьба, стрельба из лука и скачки."
+  ]
+ },
+ "MYS": {
+  "en": [
+   "Malaysia's Petronas Towers in Kuala Lumpur were the tallest buildings in the world from 1998 to 2004.",
+   "Malaysia is split by the South China Sea into a peninsular part and a part on the island of Borneo.",
+   "Borneo's rainforests are home to orangutans and the giant Rafflesia, a flower with no stem or leaves."
+  ],
+  "ru": [
+   "Башни Петронас в Куала-Лумпуре были самыми высокими зданиями мира с 1998 по 2004 год.",
+   "Южно-Китайское море делит Малайзию на полуостровную часть и часть на острове Калимантан.",
+   "В лесах Калимантана живут орангутаны и растёт гигантская раффлезия — цветок без стебля и листьев."
+  ]
+ },
+ "LBN": {
+  "en": [
+   "Lebanon is the only country in the Middle East with no desert, and it has both seaside and snowy mountains.",
+   "Cedar of Lebanon is on the national flag, and ancient cedar groves survive in the mountains.",
+   "Byblos is among the oldest continuously inhabited cities in the world, and the word Bible is linked to its name."
+  ],
+  "ru": [
+   "Ливан — единственная страна Ближнего Востока без пустынь: здесь есть и морские пляжи, и заснеженные горы.",
+   "Ливанский кедр изображён на флаге, а древние кедровые рощи сохранились в горах.",
+   "Библ — один из древнейших непрерывно населённых городов мира, и слово «Библия» связано с его названием."
+  ]
+ },
+ "LAO": {
+  "en": [
+   "Laos is the only landlocked country in Southeast Asia.",
+   "The Plain of Jars has thousands of mysterious ancient stone jars whose purpose is still debated.",
+   "The Mekong River flows along much of Laos and is central to the life, fishing and transport of its people."
+  ],
+  "ru": [
+   "Лаос — единственная страна Юго-Восточной Азии без выхода к морю.",
+   "На Равнине кувшинов стоят тысячи загадочных древних каменных сосудов, назначение которых до сих пор обсуждают.",
+   "Река Меконг протекает вдоль значительной части Лаоса и играет ключевую роль в жизни, рыболовстве и транспорте."
+  ]
+ },
+ "KGZ": {
+  "en": [
+   "Lake Issyk-Kul in Kyrgyzstan is one of the largest mountain lakes in the world and never fully freezes.",
+   "Most of the country is covered by mountains of the Tian Shan range.",
+   "Nomadic yurts feature on the national flag, and the traditional horseback game kok-boru is played with a goat carcass."
+  ],
+  "ru": [
+   "Озеро Иссык-Куль в Киргизии — одно из крупнейших горных озёр мира, и оно не замерзает полностью.",
+   "Большую часть страны занимают горы Тянь-Шаня.",
+   "На флаге изображён тундук юрты, а в традиционную конную игру кок-бору играют тушей козла."
+  ]
+ },
+ "KWT": {
+  "en": [
+   "Kuwait City's Kuwait Towers are slender spheres on spires that hold water, and are a national symbol.",
+   "The country has almost no fresh water and depends heavily on desalination.",
+   "Kuwait is one of the hottest places on Earth in summer, with temperatures regularly exceeding 50 degrees Celsius."
+  ],
+  "ru": [
+   "Кувейтские башни — тонкие шпили с шарами-резервуарами для воды — служат национальным символом.",
+   "В стране почти нет пресной воды, и она сильно зависит от опреснения.",
+   "Летом Кувейт — одно из самых жарких мест планеты, температура регулярно превышает 50 градусов."
+  ]
+ },
+ "KAZ": {
+  "en": [
+   "Kazakhstan is the largest landlocked country in the world.",
+   "The Baikonur Cosmodrome, from which Yuri Gagarin launched in 1961, is in Kazakhstan.",
+   "The tulip is believed to have originated in the mountains of Central Asia, including Kazakhstan."
+  ],
+  "ru": [
+   "Казахстан — крупнейшая в мире страна без выхода к океану.",
+   "Космодром Байконур, откуда стартовал Юрий Гагарин в 1961 году, находится в Казахстане.",
+   "Считается, что тюльпаны произошли из гор Центральной Азии, в том числе Казахстана."
+  ]
+ },
+ "JOR": {
+  "en": [
+   "Petra, the rose-red city carved into sandstone cliffs, was the capital of the Nabataeans.",
+   "The Dead Sea shore in Jordan is the lowest point on land on Earth, over 400 metres below sea level.",
+   "Bethany Beyond the Jordan is traditionally regarded as the site of the baptism of Jesus."
+  ],
+  "ru": [
+   "Петра — розовый город, высеченный в песчаниковых скалах, — была столицей набатеев.",
+   "Берег Мёртвого моря в Иордании — самая низкая точка суши на Земле, более 400 метров ниже уровня океана.",
+   "Вифавара за Иорданом по традиции считается местом крещения Иисуса."
+  ]
+ },
+ "JPN": {
+  "en": [
+   "Japan consists of nearly 7,000 islands, but four main ones hold most of the population.",
+   "The Shinkansen bullet train began running in 1964 and is famous for its punctuality.",
+   "Mount Fuji is a sacred symbol of Japan and a nearly perfectly shaped volcano."
+  ],
+  "ru": [
+   "Япония состоит почти из 7000 островов, но на четырёх главных живёт большая часть населения.",
+   "Скоростной поезд синкансэн начал ходить в 1964 году и славится пунктуальностью.",
+   "Фудзи — священный символ Японии и вулкан почти идеальной формы."
+  ]
+ },
+ "ISR": {
+  "en": [
+   "The Dead Sea is so salty that swimmers float effortlessly on its surface.",
+   "Hebrew was revived as a spoken everyday language in modern times after centuries as mainly a liturgical language.",
+   "Israel is a notable leader in drip irrigation and in turning desert into farmland."
+  ],
+  "ru": [
+   "Мёртвое море настолько солёное, что пловцы без усилий лежат на его поверхности.",
+   "Иврит был возрождён как разговорный язык в наше время после веков использования главным образом в богослужении.",
+   "Израиль известен капельным орошением и превращением пустыни в сельхозугодья."
+  ]
+ },
+ "PSX": {
+  "en": [
+   "Jericho in the West Bank is often described as one of the oldest continuously inhabited cities in the world.",
+   "Palestine includes the Mediterranean coastal Gaza Strip and the West Bank, part of which borders the Dead Sea.",
+   "Palestinian embroidery, called tatreez, uses regional patterns that vary from village to village."
+  ],
+  "ru": [
+   "Иерихон на Западном берегу часто называют одним из древнейших непрерывно населённых городов мира.",
+   "В состав Палестины входят приморский сектор Газа и Западный берег, часть которого граничит с Мёртвым морем.",
+   "Палестинская вышивка татриз использует узоры, различающиеся от деревни к деревне."
+  ]
+ },
+ "IRQ": {
+  "en": [
+   "Ancient Mesopotamia between the Tigris and Euphrates is the cradle of writing, with cuneiform used in Sumerian cities.",
+   "The Hanging Gardens of Babylon, one of the Seven Wonders of the ancient world, are traditionally placed in Iraq.",
+   "Iraq's southern marshes are among the largest wetland ecosystems in the Middle East."
+  ],
+  "ru": [
+   "Древняя Месопотамия между Тигром и Евфратом — колыбель письменности: в шумерских городах использовали клинопись.",
+   "Висячие сады Семирамиды, одно из семи чудес света, по традиции помещают в Ираке.",
+   "Южные болота Ирака — одна из крупнейших водно-болотных систем Ближнего Востока."
+  ]
+ },
+ "IRN": {
+  "en": [
+   "Persepolis, begun by Darius I around 518 BCE, was a ceremonial capital of the Persian Empire.",
+   "Iran is the world's largest producer of saffron by a wide margin.",
+   "The Persian New Year, Nowruz, is celebrated on the spring equinox and has been marked for thousands of years."
+  ],
+  "ru": [
+   "Персеполь, начатый Дарием I около 518 года до н. э., был церемониальной столицей Персидской империи.",
+   "Иран — крупнейший производитель шафрана в мире с огромным отрывом.",
+   "Персидский Новый год Навруз отмечают в день весеннего равноденствия уже тысячи лет."
+  ]
+ },
+ "IDN": {
+  "en": [
+   "Indonesia is the largest archipelago in the world, with more than 17,000 islands.",
+   "It has more active volcanoes than any other country.",
+   "Komodo dragons, the largest living lizards, live only on a few Indonesian islands."
+  ],
+  "ru": [
+   "Индонезия — крупнейший архипелаг мира, более 17 000 островов.",
+   "В Индонезии больше действующих вулканов, чем в любой другой стране.",
+   "Комодские вараны, крупнейшие из живущих ящериц, обитают лишь на нескольких индонезийских островах."
+  ]
+ },
+ "IND": {
+  "en": [
+   "India has the largest population of any country in the world.",
+   "The game of chess is believed to have originated in India, in an early form called chaturanga.",
+   "Indian Railways is among the biggest rail networks and employers in the world."
+  ],
+  "ru": [
+   "Население Индии — крупнейшее среди всех стран мира.",
+   "Считается, что шахматы зародились в Индии в ранней форме под названием чатуранга.",
+   "Индийские железные дороги — одна из крупнейших железнодорожных сетей и работодателей в мире."
+  ]
+ },
+ "GEO": {
+  "en": [
+   "Georgia is considered one of the oldest wine-making regions, with the tradition of fermenting wine in clay qvevri jars going back about 8,000 years.",
+   "The Caucasus mountains in the north include Mount Shkhara, among the highest peaks in the country.",
+   "The Georgian alphabet is unique, one of very few writing systems in the world, with a distinctive curvy look."
+  ],
+  "ru": [
+   "Грузия считается одним из древнейших винодельческих регионов: выдерживать вино в глиняных квеври начали около 8000 лет назад.",
+   "В горах Большого Кавказа на севере находится гора Шхара, одна из высочайших вершин страны.",
+   "Грузинский алфавит уникален: это одна из немногих самостоятельных письменностей мира с характерными округлыми буквами."
+  ]
+ },
+ "CYN": {
+  "en": [
+   "Northern Cyprus occupies the northern third of the island, including the historic walled port town of Kyrenia.",
+   "The Karpas Peninsula is a long narrow strip known for wild donkeys and quiet beaches.",
+   "The Kyrenia Mountains run in a long ridge along the northern coast and are topped with medieval castles."
+  ],
+  "ru": [
+   "Северный Кипр занимает северную треть острова, включая старинный портовый город Кирения с крепостными стенами.",
+   "Полуостров Карпас — длинный узкий мыс, известный дикими ослами и тихими пляжами.",
+   "Кирнейский хребет тянется вдоль северного побережья, и на нём стоят средневековые замки."
+  ]
+ },
+ "CYP": {
+  "en": [
+   "According to Greek myth, Aphrodite was born from the sea foam off the coast of Cyprus.",
+   "Cyprus is the third-largest island in the Mediterranean Sea.",
+   "The island's copper mines in antiquity gave the metal its name: Latin cuprum comes from Cyprus."
+  ],
+  "ru": [
+   "Согласно греческому мифу, Афродита родилась из морской пены у берегов Кипра.",
+   "Кипр — третий по величине остров Средиземного моря.",
+   "Медь получила название от Кипра: латинское cuprum происходит от названия острова, где её добывали в древности."
+  ]
+ },
+ "CHN": {
+  "en": [
+   "The Great Wall of China is thousands of kilometres long across its many built sections.",
+   "Paper, printing, gunpowder and the compass are known as China's Four Great Inventions.",
+   "Giant pandas live only in the mountains of central China."
+  ],
+  "ru": [
+   "Великая Китайская стена тянется на тысячи километров вдоль множества построенных участков.",
+   "Бумага, книгопечатание, порох и компас известны как четыре великих изобретения Китая.",
+   "Большие панды живут только в горах центральной части Китая."
+  ]
+ },
+ "MAC": {
+  "en": [
+   "Macau was a Portuguese territory for centuries and returned to China in 1999.",
+   "It is one of the most densely populated places on Earth.",
+   "Its historic centre blends Portuguese and Chinese architecture, and the dish African chicken reflects that fusion."
+  ],
+  "ru": [
+   "Макао много веков принадлежал Португалии и вернулся к Китаю в 1999 году.",
+   "Это одно из самых густонаселённых мест на Земле.",
+   "В историческом центре смешаны португальская и китайская архитектура, а блюдо «африканская курица» отражает это слияние кухонь."
+  ]
+ },
+ "HKG": {
+  "en": [
+   "Hong Kong has more skyscrapers than any other city in the world.",
+   "Its harbour is nicknamed the Fragrant Harbour, from the name Hong Kong meaning fragrant harbour.",
+   "The double-decker tram, called the Ding Ding, has run on Hong Kong Island since 1904."
+  ],
+  "ru": [
+   "В Гонконге больше небоскрёбов, чем в любом другом городе мира.",
+   "Название Гонконг переводится как «ароматная гавань».",
+   "Двухэтажные трамваи «динь-динь» ходят по острову Гонконг с 1904 года."
+  ]
+ },
+ "KHM": {
+  "en": [
+   "Angkor Wat in Cambodia is the largest religious monument in the world and appears on the national flag.",
+   "Tonlé Sap is a lake whose river reverses its flow each year with the monsoon, and it swells to several times its dry-season size.",
+   "Cambodia's Khmer Empire built Angkor, one of the largest pre-industrial urban areas on Earth."
+  ],
+  "ru": [
+   "Ангкор-Ват в Камбодже — крупнейший религиозный памятник мира, изображённый на национальном флаге.",
+   "Река Тонлесап каждый год меняет направление течения с наступлением муссона, и озеро разливается в несколько раз.",
+   "Кхмерская империя построила Ангкор — один из крупнейших городских комплексов доиндустриальной эпохи."
+  ]
+ },
+ "MMR": {
+  "en": [
+   "Bagan in Myanmar has thousands of ancient temples and pagodas scattered across a plain.",
+   "Myanmar produces most of the world's rubies, including the prized pigeon's blood colour.",
+   "Many people in Myanmar apply thanaka, a yellow paste from tree bark, to their faces as sunscreen and cosmetic."
+  ],
+  "ru": [
+   "В Багане в Мьянме на равнине рассыпаны тысячи древних храмов и пагод.",
+   "Мьянма поставляет значительную часть мировых рубинов, включая ценный оттенок «голубиная кровь».",
+   "Многие жители Мьянмы наносят на лицо танаку — жёлтую пасту из коры дерева — как солнцезащитное и косметическое средство."
+  ]
+ },
+ "BRN": {
+  "en": [
+   "Brunei's Kampong Ayer is a huge stilt-house village over the river, often called the Venice of the East.",
+   "Brunei has two parts separated by the Malaysian state of Sarawak.",
+   "Oil and gas have made Brunei one of the wealthiest countries in Asia per person."
+  ],
+  "ru": [
+   "Кампонг-Айер в Брунее — огромная деревня на сваях над рекой, которую часто называют «Венецией Востока».",
+   "Бруней состоит из двух частей, разделённых малайзийским штатом Саравак.",
+   "Нефть и газ сделали Бруней одной из самых богатых по доходу на душу страной Азии."
+  ]
+ },
+ "BTN": {
+  "en": [
+   "Bhutan measures its progress with Gross National Happiness rather than only economic output.",
+   "Tiger's Nest Monastery clings to a cliff about 900 metres above the Paro valley.",
+   "Bhutan is carbon negative, with forests that absorb more carbon dioxide than the country emits."
+  ],
+  "ru": [
+   "Бутан оценивает развитие по «валовому национальному счастью», а не только по экономике.",
+   "Монастырь Паро-Тактсанг, «Гнездо тигра», прилепился к скале примерно в 900 метрах над долиной Паро.",
+   "Бутан — страна с отрицательным углеродным балансом: её леса поглощают больше углекислого газа, чем страна выбрасывает."
+  ]
+ },
+ "BGD": {
+  "en": [
+   "Bangladesh sits on the world's largest river delta, formed by the Ganges, Brahmaputra and Meghna.",
+   "The Sundarbans, shared with India, are the largest mangrove forest in the world and home to Bengal tigers.",
+   "Cox's Bazar has one of the longest natural sea beaches in the world."
+  ],
+  "ru": [
+   "Бангладеш расположен на крупнейшей речной дельте мира, образованной Гангом, Брахмапутрой и Мегхной.",
+   "Сундарбан, общий с Индией, — крупнейший мангровый лес мира, где живут бенгальские тигры.",
+   "Кокс-Базар — один из самых длинных природных морских пляжей в мире."
+  ]
+ },
+ "BHR": {
+  "en": [
+   "Bahrain is an island nation in the Persian Gulf, made up of an archipelago of over thirty islands.",
+   "It was a centre of pearl diving for centuries before oil was discovered in 1932.",
+   "Bahrain's Dilmun burial mounds number in the tens of thousands, among the largest ancient cemeteries."
+  ],
+  "ru": [
+   "Бахрейн — островное государство в Персидском заливе, архипелаг из более чем тридцати островов.",
+   "Он был центром добычи жемчуга на протяжении веков, пока в 1932 году не нашли нефть.",
+   "Курганы Дильмуна в Бахрейне исчисляются десятками тысяч — это одно из крупнейших древних кладбищ."
+  ]
+ },
+ "AZE": {
+  "en": [
+   "Azerbaijan's Gobustan has thousands of rock carvings up to 10,000 years old, and nearby mud volcanoes bubble on the surface.",
+   "The Absheron Peninsula holds Yanar Dag, a natural gas fire that has burned on a hillside for decades.",
+   "Baku is among the lowest-lying capitals, built on the Caspian Sea shore."
+  ],
+  "ru": [
+   "В Гобустане в Азербайджане есть тысячи наскальных рисунков возрастом до 10 000 лет, а рядом булькают грязевые вулканы.",
+   "На Апшеронском полуострове находится Янардаг — природный газовый огонь, который горит на склоне холма десятилетиями.",
+   "Баку — одна из самых низко расположенных столиц, он стоит на берегу Каспийского моря."
+  ]
+ },
+ "IOA": {
+  "en": [
+   "The Indian Ocean Territories are Christmas Island and the Cocos (Keeling) Islands, both administered by Australia.",
+   "Every year millions of red crabs migrate from the forest of Christmas Island to the sea to breed.",
+   "The Cocos (Keeling) Islands are low coral atolls in the middle of the Indian Ocean."
+  ],
+  "ru": [
+   "Австралийские территории в Индийском океане — остров Рождества и Кокосовые (Килинг) острова — управляются Австралией.",
+   "Каждый год миллионы красных крабов мигрируют с лесов острова Рождества к морю для размножения.",
+   "Кокосовые острова — низкие коралловые атоллы посреди Индийского океана."
+  ]
+ },
+ "ARM": {
+  "en": [
+   "Armenia was the first country to adopt Christianity as a state religion, in the early 4th century.",
+   "The Armenian alphabet was created around 405 CE by Mesrop Mashtots and is still used today.",
+   "Mount Ararat, the traditional resting place of Noah's Ark, is visible from Yerevan and is a national symbol."
+  ],
+  "ru": [
+   "Армения первой в мире приняла христианство как государственную религию в начале IV века.",
+   "Армянский алфавит создан около 405 года Месропом Маштоцем и используется до сих пор.",
+   "Гора Арарат, где по преданию остановился Ноев ковчег, видна из Еревана и служит национальным символом."
+  ]
+ },
+ "AFG": {
+  "en": [
+   "The Bamiyan valley once held giant Buddha statues carved into a cliff in the 6th century.",
+   "Afghanistan is a mountainous country, crossed by the Hindu Kush range.",
+   "Buzkashi, a traditional horseback sport, has riders compete to carry a goat or calf carcass to a goal."
+  ],
+  "ru": [
+   "В долине Бамиан в VI веке в скале вырезали гигантские статуи Будды.",
+   "Афганистан — горная страна, через которую проходит хребет Гиндукуш.",
+   "В бузкаши, традиционной конной игре, всадники соревнуются, пытаясь донести тушу козла или телёнка до цели."
+  ]
+ },
+ "KAS": {
+  "en": [
+   "The Siachen Glacier in the Karakoram is about 70 kilometres long, one of the longest glaciers outside the polar regions.",
+   "It lies at an altitude of roughly 5,000 metres or more, with brutally cold winters and heavy snowfall.",
+   "Its meltwater feeds the Nubra River, which flows into the Indus system."
+  ],
+  "ru": [
+   "Ледник Сиачен в Каракоруме тянется примерно на 70 километров и входит в число самых длинных ледников за пределами полярных областей.",
+   "Он лежит на высоте около 5000 метров и выше, где зимой стоят лютые морозы и выпадает много снега.",
+   "Талые воды ледника питают реку Нубра, которая впадает в систему Инда."
+  ]
+ }
+}

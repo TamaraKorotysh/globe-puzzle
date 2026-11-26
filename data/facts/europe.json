@@ -1,0 +1,602 @@
+{
+ "VAT": {
+  "en": [
+   "Vatican City is the smallest country in the world, with an area of about 0.44 square kilometres.",
+   "The Vatican has its own post office, railway station and Swiss Guard, which has protected the pope since 1506.",
+   "The Vatican Museums hold the Sistine Chapel, whose ceiling was painted by Michelangelo in the early 1500s."
+  ],
+  "ru": [
+   "Ватикан — самое маленькое государство мира, его площадь около 0,44 квадратного километра.",
+   "В Ватикане есть своя почта, железнодорожная станция и швейцарская гвардия, охраняющая пап с 1506 года.",
+   "В музеях Ватикана находится Сикстинская капелла с потолком, который Микеланджело расписал в начале XVI века."
+  ]
+ },
+ "JEY": {
+  "en": [
+   "Jersey is a self-governing Crown dependency and is not part of the United Kingdom.",
+   "The island has one of the largest tidal ranges in the world, with the sea retreating up to about 12 metres.",
+   "Jersey is famous for its Royal potatoes and for the Jersey cattle breed, known for rich creamy milk."
+  ],
+  "ru": [
+   "Джерси — самоуправляемая коронная зависимость и не входит в состав Соединённого Королевства.",
+   "Здесь один из самых больших приливов в мире: море отступает почти на 12 метров.",
+   "Остров знаменит картофелем «Джерси Ройал» и породой коров джерси, дающих жирное сливочное молоко."
+  ]
+ },
+ "GGY": {
+  "en": [
+   "Guernsey is a Crown dependency with its own parliament, laws and tax system.",
+   "Victor Hugo spent about 15 years in exile on Guernsey and finished Les Misérables while living there.",
+   "The island gave its name to the Guernsey cow and to the thick knitted sweater called a guernsey."
+  ],
+  "ru": [
+   "Гернси — коронная зависимость со своим парламентом, законами и налоговой системой.",
+   "Виктор Гюго провёл на Гернси около 15 лет в изгнании и здесь завершил «Отверженных».",
+   "Остров дал имя породе коров гернси и плотному вязаному свитеру — «гернси»."
+  ]
+ },
+ "IMN": {
+  "en": [
+   "The Isle of Man has one of the world's oldest continuous parliaments, Tynwald, dating back over a thousand years.",
+   "The island hosts the Isle of Man TT, one of the most dangerous and famous motorcycle races on public roads.",
+   "Manx cats are known for having little or no tail, and the island is a UNESCO Biosphere Reserve."
+  ],
+  "ru": [
+   "На острове Мэн работает один из старейших непрерывно действующих парламентов мира — Тинвальд, которому больше тысячи лет.",
+   "Здесь проходит «Тур де Мэн» — Isle of Man TT, одна из самых известных и опасных мотогонок на обычных дорогах.",
+   "Мэнские кошки известны почти полным отсутствием хвоста, а весь остров — биосферный заповедник ЮНЕСКО."
+  ]
+ },
+ "GBR": {
+  "en": [
+   "The Greenwich meridian in London defines 0 degrees longitude and is the basis of world time zones.",
+   "The UK is made of four nations: England, Scotland, Wales and Northern Ireland.",
+   "The London Underground, opened in 1863, is the oldest metro system in the world."
+  ],
+  "ru": [
+   "Гринвичский меридиан в Лондоне задаёт нулевую долготу и служит основой для мировых часовых поясов.",
+   "Соединённое Королевство состоит из четырёх частей: Англии, Шотландии, Уэльса и Северной Ирландии.",
+   "Лондонское метро, открытое в 1863 году, — старейшая метросистема мира."
+  ]
+ },
+ "UKR": {
+  "en": [
+   "Ukraine is the largest country located entirely in Europe, with an area of about 600,000 square kilometres.",
+   "Its black earth soil, chernozem, is among the most fertile in the world, making the country a major grain exporter.",
+   "The Kyiv Metro station Arsenalna is among the deepest in the world, at about 105 metres underground."
+  ],
+  "ru": [
+   "Украина — крупнейшая страна, целиком расположенная в Европе, её площадь около 600 тысяч квадратных километров.",
+   "Чернозёмы Украины — одни из самых плодородных почв мира, поэтому страна крупный экспортёр зерна.",
+   "Станция киевского метро «Арсенальная» — одна из самых глубоких в мире, примерно 105 метров под землёй."
+  ]
+ },
+ "CHE": {
+  "en": [
+   "Switzerland has four national languages: German, French, Italian and Romansh.",
+   "The Gotthard Base Tunnel, opened in 2016, is the longest railway tunnel in the world at about 57 kilometres.",
+   "The Swiss have produced chocolate for centuries, and milk chocolate was invented here in the 1870s."
+  ],
+  "ru": [
+   "В Швейцарии четыре государственных языка: немецкий, французский, итальянский и романшский.",
+   "Готардский базисный тоннель, открытый в 2016 году, — самый длинный железнодорожный тоннель мира, около 57 километров.",
+   "Швейцарцы делают шоколад столетиями, а молочный шоколад здесь изобрели в 1870-х годах."
+  ]
+ },
+ "SWE": {
+  "en": [
+   "Sweden has about 270,000 islands, more than any other country in the world.",
+   "The Nobel Prizes are awarded in Stockholm each December, following the will of Alfred Nobel.",
+   "Under the right of public access, anyone may walk, camp and pick berries on most uncultivated land."
+  ],
+  "ru": [
+   "В Швеции около 270 тысяч островов — больше, чем в любой другой стране мира.",
+   "Нобелевские премии вручают в Стокгольме каждый декабрь в соответствии с завещанием Альфреда Нобеля.",
+   "По праву общего доступа любой может гулять, ставить палатку и собирать ягоды на большей части незасеянных земель."
+  ]
+ },
+ "ESP": {
+  "en": [
+   "Spain produces more olive oil than any other country, often close to half of the world's supply.",
+   "La Tomatina in Buñol is a festival where thousands of people throw tomatoes at each other.",
+   "The Sagrada Família in Barcelona has been under construction since 1882."
+  ],
+  "ru": [
+   "Испания производит больше оливкового масла, чем любая другая страна, нередко около половины мирового объёма.",
+   "На фестивале Ла Томатина в Буньоле тысячи людей бросаются друг в друга помидорами.",
+   "Собор Саграда Фамилия в Барселоне строится с 1882 года."
+  ]
+ },
+ "SVK": {
+  "en": [
+   "Slovakia has more castles and chateaux per person than almost any other country in Europe.",
+   "Bratislava is one of the few capitals in the world that borders two other countries, Austria and Hungary.",
+   "The High Tatras are the smallest alpine-type mountain range in the world, yet reach over 2,600 metres."
+  ],
+  "ru": [
+   "В Словакии замков и усадеб на душу населения больше, чем почти в любой другой стране Европы.",
+   "Братислава — одна из немногих столиц мира, граничащих сразу с двумя другими странами: Австрией и Венгрией.",
+   "Высокие Татры — самый маленький по площади горный массив альпийского типа, но их вершины выше 2600 метров."
+  ]
+ },
+ "SVN": {
+  "en": [
+   "Slovenia is about 60 percent forest, making it one of the greenest countries in Europe.",
+   "The Postojna Cave is a huge cave system that visitors tour by an electric train.",
+   "Slovenia is the home of the Lipizzaner horse breed, bred at the Lipica stud farm since 1580."
+  ],
+  "ru": [
+   "Около 60 процентов Словении покрыто лесом, это одна из самых зелёных стран Европы.",
+   "Постойнская пещера — огромная карстовая система, по которой туристов возят на электропоезде.",
+   "Из Словении родом липицанские лошади, которых разводят на конезаводе в Липице с 1580 года."
+  ]
+ },
+ "SRB": {
+  "en": [
+   "Nikola Tesla, the inventor of the alternating-current motor, was born in a Serbian family in the village of Smiljan, in present-day Croatia.",
+   "Serbia is one of the world's leading producers of raspberries.",
+   "Belgrade stands at the meeting point of the Sava and Danube rivers and is one of Europe's oldest continuously inhabited cities."
+  ],
+  "ru": [
+   "Никола Тесла, изобретатель двигателя переменного тока, родился в сербской семье в селе Смиляны на территории нынешней Хорватии.",
+   "Сербия — один из крупнейших в мире производителей малины.",
+   "Белград стоит при слиянии Савы и Дуная и относится к древнейшим постоянно населённым городам Европы."
+  ]
+ },
+ "SMR": {
+  "en": [
+   "San Marino claims to be the oldest surviving sovereign state and republic in the world, founded in 301 AD.",
+   "It is completely surrounded by Italy and sits on the slopes of Monte Titano.",
+   "San Marino is governed by two Captains Regent, who are elected every six months."
+  ],
+  "ru": [
+   "Сан-Марино считается старейшей из существующих суверенных стран и республик мира, основанной в 301 году.",
+   "Страна полностью окружена Италией и расположена на склонах горы Монте-Титано.",
+   "Сан-Марино управляют два капитана-регента, которых избирают каждые шесть месяцев."
+  ]
+ },
+ "RUS": {
+  "en": [
+   "Russia is the largest country in the world and spans eleven time zones.",
+   "Lake Baikal in Siberia is the deepest lake on Earth and holds about a fifth of the world's unfrozen fresh water.",
+   "The Trans-Siberian Railway, about 9,300 kilometres long, is the longest railway line in the world."
+  ],
+  "ru": [
+   "Россия — самая большая страна мира, она охватывает одиннадцать часовых поясов.",
+   "Озеро Байкал в Сибири — самое глубокое озеро планеты, в нём около пятой части мировых запасов пресной воды.",
+   "Транссибирская магистраль длиной около 9300 километров — самая длинная железная дорога мира."
+  ]
+ },
+ "ROU": {
+  "en": [
+   "The Palace of the Parliament in Bucharest is one of the heaviest and largest administrative buildings in the world.",
+   "The Transfăgărășan road crosses the Carpathians and is often called one of the most spectacular roads on Earth.",
+   "Romania's Danube Delta is the best-preserved delta in Europe and a UNESCO World Heritage Site."
+  ],
+  "ru": [
+   "Дворец парламента в Бухаресте — одно из самых больших и тяжёлых административных зданий мира.",
+   "Дорогу Трансфэгэрашан через Карпаты часто называют одной из самых зрелищных дорог на Земле.",
+   "Дельта Дуная в Румынии — лучше всего сохранившаяся дельта Европы и объект Всемирного наследия ЮНЕСКО."
+  ]
+ },
+ "PRT": {
+  "en": [
+   "Portugal's border with Spain, set in the 13th century, is among the oldest unchanged borders in the world.",
+   "Lisbon's Bertrand bookshop, opened in 1732, is recognised as the oldest operating bookshop in the world.",
+   "Portuguese explorers such as Vasco da Gama opened the sea route to India around Africa in 1498."
+  ],
+  "ru": [
+   "Граница Португалии с Испанией, установленная в XIII веке, — одна из старейших неизменных границ мира.",
+   "Лиссабонский книжный магазин «Бертран», открытый в 1732 году, признан старейшим действующим книжным магазином мира.",
+   "Португальские мореплаватели, такие как Васко да Гама, в 1498 году открыли морской путь в Индию вокруг Африки."
+  ]
+ },
+ "POL": {
+  "en": [
+   "Poland's Wieliczka Salt Mine has been in operation since the Middle Ages and contains underground chapels carved from salt.",
+   "The Białowieża Forest is home to Europe's largest land mammal, the European bison.",
+   "Marie Curie, born in Warsaw, is the only person to win Nobel Prizes in two different sciences."
+  ],
+  "ru": [
+   "Соляная шахта Величка работает со Средних веков и хранит подземные часовни, вырезанные из соли.",
+   "В Беловежской пуще живёт самое крупное наземное млекопитающее Европы — зубр.",
+   "Мария Склодовская-Кюри, родившаяся в Варшаве, — единственный человек, получивший Нобелевские премии в двух разных науках."
+  ]
+ },
+ "NOR": {
+  "en": [
+   "Norway's coastline, with its many fjords, is among the longest in the world when all inlets are counted.",
+   "Svalbard, a Norwegian archipelago, hosts the Global Seed Vault, which stores backup copies of seeds from around the world.",
+   "In summer, northern Norway has the midnight sun, when the sun does not set for weeks."
+  ],
+  "ru": [
+   "Береговая линия Норвегии с множеством фьордов — одна из самых длинных в мире, если считать все заливы.",
+   "На норвежском архипелаге Шпицберген находится Всемирное семенохранилище с резервными копиями семян со всей планеты.",
+   "Летом на севере Норвегии наблюдается полярный день: солнце не заходит несколько недель."
+  ]
+ },
+ "NLD": {
+  "en": [
+   "About a quarter of the Netherlands lies below sea level, protected by dykes, dunes and pumps.",
+   "The Netherlands has more bicycles than people.",
+   "Amsterdam's canal ring from the 17th century is a UNESCO World Heritage Site."
+  ],
+  "ru": [
+   "Около четверти территории Нидерландов лежит ниже уровня моря и защищена дамбами, дюнами и насосами.",
+   "В Нидерландах велосипедов больше, чем жителей.",
+   "Кольцо каналов Амстердама XVII века входит в список Всемирного наследия ЮНЕСКО."
+  ]
+ },
+ "MNE": {
+  "en": [
+   "Montenegro means Black Mountain, and the country declared independence in 2006 after a referendum.",
+   "The Tara River Canyon is about 1,300 metres deep and is among the deepest canyons in Europe.",
+   "The Bay of Kotor is often described as one of the southernmost fjord-like bays in Europe."
+  ],
+  "ru": [
+   "Название Черногории означает «чёрная гора», а независимость страна провозгласила в 2006 году после референдума.",
+   "Каньон реки Тара глубиной около 1300 метров — один из самых глубоких в Европе.",
+   "Бока-Которскую бухту часто называют одним из самых южных фьордоподобных заливов Европы."
+  ]
+ },
+ "MDA": {
+  "en": [
+   "Moldova has a huge underground wine cellar at Mileștii Mici, with hundreds of kilometres of tunnels filled with wine.",
+   "Wine is a major part of Moldovan culture, and the country celebrates a National Wine Day every year.",
+   "The Moldovan leu is named after the word for lion, and the country lies between Romania and Ukraine."
+  ],
+  "ru": [
+   "В Милештий Мичь в Молдове есть огромный подземный винный погреб с сотнями километров галерей, заполненных вином.",
+   "Вино — важная часть молдавской культуры, и каждый год в стране отмечают Национальный день вина.",
+   "Молдова расположена между Румынией и Украиной, а её денежная единица лей названа в честь льва."
+  ]
+ },
+ "MCO": {
+  "en": [
+   "Monaco is the second-smallest country in the world and the most densely populated.",
+   "The Monaco Grand Prix is run through the city streets and is one of the most famous races in Formula 1.",
+   "Monaco has no airport, and the nearest major one is in Nice, France."
+  ],
+  "ru": [
+   "Монако — вторая по малости страна мира и самая густонаселённая.",
+   "Гран-при Монако проходит прямо по городским улицам и считается одной из самых известных гонок «Формулы-1».",
+   "В Монако нет аэропорта, ближайший крупный находится в Ницце во Франции."
+  ]
+ },
+ "MLT": {
+  "en": [
+   "Malta's temples such as Ġgantija are among the oldest free-standing stone structures in the world, older than Stonehenge.",
+   "Maltese is the only Semitic language written in the Latin alphabet and an official EU language.",
+   "The Knights of St John built the fortified city of Valletta in the 16th century."
+  ],
+  "ru": [
+   "Мальтийские храмы, такие как Джгантия, — одни из старейших отдельно стоящих каменных построек мира, старше Стоунхенджа.",
+   "Мальтийский — единственный семитский язык, который записывается латиницей, и один из официальных языков ЕС.",
+   "Рыцари ордена Святого Иоанна построили укреплённый город Валлетту в XVI веке."
+  ]
+ },
+ "MKD": {
+  "en": [
+   "Lake Ohrid, shared with Albania, is one of the oldest and deepest lakes in Europe, estimated to be millions of years old.",
+   "Mother Teresa was born in Skopje in 1910.",
+   "North Macedonia changed its name from Macedonia in 2019 after an agreement with Greece."
+  ],
+  "ru": [
+   "Охридское озеро, которое страна делит с Албанией, — одно из древнейших и глубочайших озёр Европы, его возраст оценивают в миллионы лет.",
+   "Мать Тереза родилась в Скопье в 1910 году.",
+   "Северная Македония получила нынешнее название в 2019 году по соглашению с Грецией."
+  ]
+ },
+ "LUX": {
+  "en": [
+   "Luxembourg is the world's only remaining sovereign grand duchy.",
+   "It is one of the richest countries in the world by GDP per person.",
+   "Three official languages are used in Luxembourg: Luxembourgish, French and German."
+  ],
+  "ru": [
+   "Люксембург — единственное в мире оставшееся суверенное великое герцогство.",
+   "По ВВП на душу населения это одна из богатейших стран мира.",
+   "В Люксембурге три государственных языка: люксембургский, французский и немецкий."
+  ]
+ },
+ "LTU": {
+  "en": [
+   "Lithuania was once part of one of the largest states in Europe, the Grand Duchy of Lithuania.",
+   "It was the first Soviet republic to declare independence, in 1990.",
+   "Lithuania is famous for amber from the Baltic coast, and the Curonian Spit is a UNESCO site of shifting sand dunes."
+  ],
+  "ru": [
+   "Литва когда-то входила в одно из крупнейших государств Европы — Великое княжество Литовское.",
+   "Это была первая советская республика, провозгласившая независимость, — в 1990 году.",
+   "Литва известна балтийским янтарём, а Куршская коса с подвижными дюнами — объект ЮНЕСКО."
+  ]
+ },
+ "LIE": {
+  "en": [
+   "Liechtenstein is one of only two doubly landlocked countries in the world, together with Uzbekistan.",
+   "It is the only country in the world named after the family that rules it.",
+   "Liechtenstein is so small that it can be driven across in well under an hour."
+  ],
+  "ru": [
+   "Лихтенштейн — одна из двух стран мира, дважды лишённых выхода к морю, вместе с Узбекистаном.",
+   "Это единственная страна мира, названная по правящей семье.",
+   "Лихтенштейн настолько мал, что пересечь его на машине можно намного быстрее чем за час."
+  ]
+ },
+ "LVA": {
+  "en": [
+   "Riga has one of the largest collections of Art Nouveau buildings in the world.",
+   "Latvia is about half covered by forest and has a long, sandy Baltic coastline.",
+   "The Latvian Song and Dance Festival, held every few years, gathers tens of thousands of singers and is a UNESCO heritage tradition."
+  ],
+  "ru": [
+   "В Риге одна из крупнейших в мире коллекций зданий в стиле модерн.",
+   "Около половины Латвии покрыто лесом, а на Балтике у неё длинная песчаная береговая линия.",
+   "Праздник песни и танца в Латвии собирает десятки тысяч певцов раз в несколько лет и включён в наследие ЮНЕСКО."
+  ]
+ },
+ "KOS": {
+  "en": [
+   "Kosovo declared independence from Serbia in 2008 and is among the youngest countries in Europe.",
+   "It has one of the youngest populations in Europe, with a median age around 30.",
+   "The Newborn monument in Pristina is repainted each year on the anniversary of independence."
+  ],
+  "ru": [
+   "Косово провозгласило независимость от Сербии в 2008 году и входит в число самых молодых государств Европы.",
+   "Население Косова — одно из самых молодых в Европе, средний возраст около 30 лет.",
+   "Памятник «Новорождённый» в Приштине каждый год перекрашивают в годовщину независимости."
+  ]
+ },
+ "ITA": {
+  "en": [
+   "Italy has around 60 UNESCO World Heritage Sites, among the most of any country.",
+   "Two independent states lie entirely within Italy: San Marino and Vatican City.",
+   "Pizza as we know it comes from Naples, and Italians have a strong tradition of regional cooking."
+  ],
+  "ru": [
+   "В Италии около 60 объектов Всемирного наследия ЮНЕСКО — одно из самых больших чисел в мире.",
+   "Целиком внутри Италии расположены два независимых государства: Сан-Марино и Ватикан.",
+   "Пицца в привычном виде родом из Неаполя, а у итальянцев сильные традиции региональной кухни."
+  ]
+ },
+ "IRL": {
+  "en": [
+   "Ireland is nicknamed the Emerald Isle for its green landscapes.",
+   "Halloween traces its roots to the ancient Irish festival of Samhain.",
+   "Ireland's Cliffs of Moher rise up to about 214 metres above the Atlantic."
+  ],
+  "ru": [
+   "Ирландию называют Изумрудным островом за её зелёные пейзажи.",
+   "Хэллоуин восходит к древнему ирландскому празднику Самайн.",
+   "Ирландские скалы Мохер поднимаются над Атлантикой примерно на 214 метров."
+  ]
+ },
+ "ISL": {
+  "en": [
+   "Iceland sits on the Mid-Atlantic Ridge and has active volcanoes, geysers and hot springs.",
+   "Almost all of Iceland's electricity comes from renewable sources, mainly hydropower and geothermal energy.",
+   "The Icelandic parliament, the Althing, founded in 930, is among the oldest in the world."
+  ],
+  "ru": [
+   "Исландия расположена на Срединно-Атлантическом хребте и славится вулканами, гейзерами и горячими источниками.",
+   "Почти вся электроэнергия Исландии получена из возобновляемых источников, в основном от ГЭС и геотермальных станций.",
+   "Исландский парламент — альтинг, основанный в 930 году, — один из старейших в мире."
+  ]
+ },
+ "HUN": {
+  "en": [
+   "Budapest sits on a network of thermal springs and is famous for its historic bathhouses.",
+   "Hungarian is not related to its Slavic or Germanic neighbours but belongs to the Finno-Ugric language family.",
+   "Erno Rubik, a Hungarian, invented the Rubik's Cube in 1974."
+  ],
+  "ru": [
+   "Будапешт стоит на сети термальных источников и славится историческими банями.",
+   "Венгерский не родственен славянским и германским языкам соседей, а относится к финно-угорской семье.",
+   "Венгр Эрнё Рубик изобрёл кубик Рубика в 1974 году."
+  ]
+ },
+ "GRC": {
+  "en": [
+   "Greece has more than 6,000 islands and islets, though only a small share are inhabited.",
+   "Athens is one of the oldest cities in the world, with a history of around 3,400 years.",
+   "The first modern Olympic Games were held in Athens in 1896."
+  ],
+  "ru": [
+   "В Греции более 6000 островов и островков, хотя обитаема лишь небольшая их часть.",
+   "Афины — один из древнейших городов мира, его история насчитывает около 3400 лет.",
+   "Первые современные Олимпийские игры прошли в Афинах в 1896 году."
+  ]
+ },
+ "DEU": {
+  "en": [
+   "Germany shares borders with nine neighbouring countries, more than any other European country except Russia.",
+   "The Autobahn has sections with no general speed limit.",
+   "Germany has over 1,500 varieties of sausage and about 3,000 types of bread, according to local estimates."
+  ],
+  "ru": [
+   "Германия граничит с девятью странами — больше, чем любое другое европейское государство, кроме России.",
+   "На некоторых участках автобанов нет общего ограничения скорости.",
+   "В Германии, по местным оценкам, более 1500 видов колбас и около 3000 видов хлеба."
+  ]
+ },
+ "FRA": {
+  "en": [
+   "France is the most visited country in the world, welcoming around 90 million international tourists in a typical year.",
+   "The Eiffel Tower was built for the 1889 World's Fair and was originally meant to be temporary.",
+   "France has 12 time zones when its overseas territories are included, the most of any country."
+  ],
+  "ru": [
+   "Франция — самая посещаемая страна мира, в обычный год её посещают около 90 миллионов иностранных туристов.",
+   "Эйфелеву башню построили к Всемирной выставке 1889 года, и поначалу она задумывалась как временная.",
+   "Если считать заморские территории, во Франции 12 часовых поясов — больше, чем в любой другой стране."
+  ]
+ },
+ "ALD": {
+  "en": [
+   "Åland is an autonomous region of Finland where the only official language is Swedish.",
+   "It consists of one main island and thousands of small islands and skerries in the Baltic Sea.",
+   "Åland has its own flag, its own stamps and a demilitarised status under international agreements."
+  ],
+  "ru": [
+   "Аландские острова — автономия Финляндии, где единственный официальный язык — шведский.",
+   "Они состоят из одного большого острова и тысяч мелких островов и шхер в Балтийском море.",
+   "У Аландов есть свой флаг, свои почтовые марки и демилитаризованный статус по международным соглашениям."
+  ]
+ },
+ "FIN": {
+  "en": [
+   "Finland has around 188,000 lakes and is often called the Land of a Thousand Lakes.",
+   "Finland has more saunas than cars, about one for every two people.",
+   "Finnish schoolchildren start formal school at age seven, and the country is known for its strong education system."
+  ],
+  "ru": [
+   "В Финляндии около 188 тысяч озёр, и её часто зовут страной тысячи озёр.",
+   "Саун в Финляндии почти столько же, сколько жителей, примерно по одной на двух человек.",
+   "Финские дети начинают школу в семь лет, а система образования страны считается одной из сильнейших."
+  ]
+ },
+ "EST": {
+  "en": [
+   "Estonia is one of the most digital countries in the world and lets citizens vote online in national elections.",
+   "About half of Estonia is covered by forest, and it has over 2,000 islands.",
+   "Skype was created by Estonian developers in 2003."
+  ],
+  "ru": [
+   "Эстония — одна из самых цифровых стран мира, граждане могут голосовать на национальных выборах через интернет.",
+   "Около половины Эстонии покрыто лесом, а у неё более 2000 островов.",
+   "Skype создали эстонские разработчики в 2003 году."
+  ]
+ },
+ "FRO": {
+  "en": [
+   "The Faroe Islands are a self-governing territory of Denmark with more sheep than people.",
+   "Their name is thought to come from the Old Norse word for sheep.",
+   "The islands are often covered in fog, and the Faroese flag shows a Nordic cross."
+  ],
+  "ru": [
+   "Фарерские острова — самоуправляемая территория Дании, где овец больше, чем людей.",
+   "Считается, что их название происходит от древнескандинавского слова, означающего овцу.",
+   "Острова часто окутывает туман, а на фарерском флаге изображён скандинавский крест."
+  ]
+ },
+ "DNK": {
+  "en": [
+   "Denmark's flag, the Dannebrog, is considered the oldest continuously used national flag in the world.",
+   "LEGO bricks were invented in Denmark and the company is based in Billund.",
+   "No point in Denmark is further than about 50 kilometres from the sea."
+  ],
+  "ru": [
+   "Датский флаг Даннеброг считается старейшим из непрерывно используемых государственных флагов мира.",
+   "Конструктор LEGO придумали в Дании, а компания находится в Биллунде.",
+   "В Дании любая точка находится не дальше чем в 50 километрах от моря."
+  ]
+ },
+ "CZE": {
+  "en": [
+   "The Czech Republic has one of the highest beer consumption rates per person in the world.",
+   "Prague Castle is among the largest ancient castle complexes in the world.",
+   "The word robot was first used in a Czech play by Karel Čapek in 1920."
+  ],
+  "ru": [
+   "В Чехии одно из самых высоких в мире потреблений пива на душу населения.",
+   "Пражский Град — один из крупнейших древних замковых комплексов мира.",
+   "Слово «робот» впервые прозвучало в чешской пьесе Карела Чапека в 1920 году."
+  ]
+ },
+ "HRV": {
+  "en": [
+   "Croatia has more than 1,000 islands and a coast along the Adriatic that is famous for clear water.",
+   "The Plitvice Lakes form a chain of terraced lakes linked by waterfalls and are a UNESCO site.",
+   "The necktie is said to have originated from Croatian soldiers' scarves, and the word cravat comes from Croat."
+  ],
+  "ru": [
+   "В Хорватии более 1000 островов, а побережье Адриатики славится прозрачной водой.",
+   "Плитвицкие озёра — каскад озёр, соединённых водопадами, объект Всемирного наследия ЮНЕСКО.",
+   "Считается, что галстук берёт начало от шейных платков хорватских солдат, а слово «кравата» происходит от слова «хорват»."
+  ]
+ },
+ "BGR": {
+  "en": [
+   "Bulgaria is often described as the oldest European country to keep its original name, since 681 AD.",
+   "It is a leading producer of rose oil, grown in the Rose Valley.",
+   "Bulgarians nod their heads for no and shake them for yes, the opposite of most cultures."
+  ],
+  "ru": [
+   "Болгарию часто называют старейшей страной Европы, сохранившей своё название с 681 года.",
+   "Страна — один из ведущих производителей розового масла, его получают в Долине роз.",
+   "Болгары кивают головой, говоря «нет», и качают ею, говоря «да», — наоборот, чем в большинстве культур."
+  ]
+ },
+ "BIH": {
+  "en": [
+   "Sarajevo hosted the 1984 Winter Olympics.",
+   "The Stari Most bridge in Mostar, built in 1566, was rebuilt and reopened in 2004.",
+   "The country has a short coastline of only about 20 kilometres at Neum."
+  ],
+  "ru": [
+   "Сараево принимало зимние Олимпийские игры 1984 года.",
+   "Старый мост в Мостаре, построенный в 1566 году, был восстановлен и вновь открыт в 2004 году.",
+   "У страны очень короткая береговая линия — около 20 километров у города Неум."
+  ]
+ },
+ "BEL": {
+  "en": [
+   "Belgium is famous for its chocolate, waffles and more than a thousand varieties of beer.",
+   "The saxophone was invented by the Belgian Adolphe Sax in the 1840s.",
+   "Belgium has three official languages: Dutch, French and German."
+  ],
+  "ru": [
+   "Бельгия славится шоколадом, вафлями и более чем тысячей сортов пива.",
+   "Саксофон в 1840-х годах изобрёл бельгиец Адольф Сакс.",
+   "В Бельгии три государственных языка: нидерландский, французский и немецкий."
+  ]
+ },
+ "BLR": {
+  "en": [
+   "Belarus is home to the Białowieża Forest, one of the last primeval forests in Europe, shared with Poland.",
+   "About 40 percent of Belarus is covered in forest, and it has thousands of lakes.",
+   "The Mir Castle Complex is a UNESCO World Heritage Site dating from the 16th century."
+  ],
+  "ru": [
+   "В Беларуси находится часть Беловежской пущи — одного из последних реликтовых лесов Европы, общего с Польшей.",
+   "Около 40 процентов территории Беларуси покрыто лесом, здесь тысячи озёр.",
+   "Мирский замок XVI века входит в список Всемирного наследия ЮНЕСКО."
+  ]
+ },
+ "AUT": {
+  "en": [
+   "Mozart was born in Salzburg in 1756, and Vienna is often called the City of Music.",
+   "Austria's Alpine landscape covers about two thirds of the country.",
+   "The Wiener Schnitzel and the Sachertorte are among Austria's best-known dishes."
+  ],
+  "ru": [
+   "Моцарт родился в Зальцбурге в 1756 году, а Вену часто называют городом музыки.",
+   "Альпы занимают около двух третей территории Австрии.",
+   "Венский шницель и торт «Захер» — одни из самых известных блюд австрийской кухни."
+  ]
+ },
+ "AND": {
+  "en": [
+   "Andorra is a small country in the Pyrenees, and its capital is the highest in Europe.",
+   "It has two co-princes: the President of France and the Bishop of Urgell in Spain.",
+   "Catalan is the only official language of Andorra."
+  ],
+  "ru": [
+   "Андорра — маленькая страна в Пиренеях, и её столица — самая высокогорная в Европе.",
+   "У Андорры два сокняза: президент Франции и епископ Урхельский из Испании.",
+   "Каталанский — единственный официальный язык Андорры."
+  ]
+ },
+ "ALB": {
+  "en": [
+   "Albania has thousands of small concrete bunkers built in the Cold War era by its leader Enver Hoxha.",
+   "The Albanian language forms its own branch within the Indo-European family.",
+   "Albania has a coastline on both the Adriatic and Ionian seas."
+  ],
+  "ru": [
+   "В Албании тысячи небольших бетонных бункеров, построенных в годы холодной войны по указанию Энвера Ходжи.",
+   "Албанский язык образует отдельную ветвь индоевропейской семьи.",
+   "У Албании есть побережья сразу двух морей — Адриатического и Ионического."
+  ]
+ }
+}
